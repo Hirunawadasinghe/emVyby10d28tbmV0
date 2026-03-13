@@ -1,0 +1,3060 @@
+<?php return array (
+  'author' => 
+  array (
+    1 => 'AniMojo',
+    2 => 'AniMojo (Translate)',
+    3 => 'Baiscope',
+    4 => 'ලංකන් Weebs',
+    5 => 'SL Donghua Sub',
+    6 => 'Kazuma Satou',
+    7 => 'චමිදු කුශාන්ත​',
+    8 => 'ෂනාල් සිල්වා',
+    9 => 'ඉසුරු නවෝද්‍ය',
+    10 => 'AVEEZ ID',
+    11 => 'රවිඳුු බණ්ඩාර',
+    12 => 'නවෝදනී තිළිණි',
+    13 => 'කවීෂ කල්‍යාණ',
+    14 => 'හිරු ප්‍රභා පෙරේරා',
+    15 => 'DML ගංගානාත්',
+    16 => 'අශේන් ගගනක',
+    17 => 'පවිත් විජේසූරිය',
+    18 => 'කවිදු කල්හාර',
+    19 => 'සනුප රන්මෙත්',
+    20 => 'නිශාන් සමීර',
+    21 => 'තිසුර සංජන',
+    22 => 'සජීඩ් උස්මාන්',
+    23 => 'හෙළිලි හේමමාලි',
+    24 => 'SinhaSub',
+    25 => 'කළණ ලියන ආරච්චි',
+    26 => 'නවෝද්‍ය සුභාෂිත',
+    27 => 'ගයාන් චතුරංග',
+    28 => 'Test User',
+  ),
+  'iso_codes' => 
+  array (
+    'en' => 'English',
+    'si' => 'Sinhala',
+  ),
+  'subtitles' => 
+  array (
+    0 => 
+    array (
+      'id' => 
+      array (
+        0 => '512',
+        1 => '852',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 1,
+          'lan' => 'si',
+          'url' => 'solo-leveling-s2',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'solo-leveling-s2',
+        ),
+      ),
+    ),
+    1 => 
+    array (
+      'id' => 
+      array (
+        0 => '54',
+        1 => '671',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'hunter-x-hunter-2011',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'hunter-x-hunter-2011',
+        ),
+      ),
+    ),
+    2 => 
+    array (
+      'id' => 
+      array (
+        0 => '113',
+        1 => '114',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'wind-breaker-s1',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'wind-breaker-s1',
+        ),
+      ),
+    ),
+    3 => 
+    array (
+      'id' => 
+      array (
+        0 => '698',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'wind-breaker-s2',
+        ),
+      ),
+    ),
+    4 => 
+    array (
+      'id' => 
+      array (
+        0 => '28',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 3,
+          'lan' => 'si',
+          'url' => 'aot-final-season-p1',
+        ),
+      ),
+    ),
+    5 => 
+    array (
+      'id' => 
+      array (
+        0 => '62',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 3,
+          'lan' => 'si',
+          'url' => 'aot-final-season-p2',
+        ),
+      ),
+    ),
+    6 => 
+    array (
+      'id' => 
+      array (
+        0 => '95',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 3,
+          'lan' => 'si',
+          'url' => 'attack-on-titan-final-season-the-final-chapters',
+        ),
+      ),
+    ),
+    7 => 
+    array (
+      'id' => 
+      array (
+        0 => '16',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 3,
+          'lan' => 'si',
+          'url' => 'death-note',
+        ),
+      ),
+    ),
+    8 => 
+    array (
+      'id' => 
+      array (
+        0 => '695',
+        1 => '900',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 1,
+          'lan' => 'si',
+          'url' => 'please-put-them-on-takamine-san',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'please-put-them-on-takamine-san',
+        ),
+      ),
+    ),
+    9 => 
+    array (
+      'id' => 
+      array (
+        0 => '718',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'sakamoto-days-s1',
+        ),
+      ),
+    ),
+    10 => 
+    array (
+      'id' => 
+      array (
+        0 => '8',
+        1 => '66',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'demon-slayer-s1',
+        ),
+      ),
+    ),
+    11 => 
+    array (
+      'id' => 
+      array (
+        0 => '661',
+        1 => '662',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'demon-slayer-s2-eda',
+        ),
+      ),
+    ),
+    12 => 
+    array (
+      'id' => 
+      array (
+        0 => '658',
+        1 => '659',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'demon-slayer-s3',
+        ),
+      ),
+    ),
+    13 => 
+    array (
+      'id' => 
+      array (
+        0 => '6',
+        1 => '7',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'demon-slayer-s4',
+        ),
+      ),
+    ),
+    14 => 
+    array (
+      'id' => 
+      array (
+        0 => '699',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'devil-may-cry-remake',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'devil-may-cry-remake',
+        ),
+      ),
+    ),
+    15 => 
+    array (
+      'id' => 
+      array (
+        0 => '845',
+        1 => '846',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 1,
+          'lan' => 'si',
+          'url' => 'a-day-before-us-s1',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'a-day-before-us-s1',
+        ),
+      ),
+    ),
+    16 => 
+    array (
+      'id' => 
+      array (
+        0 => '847',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'a-day-before-us-s2',
+        ),
+      ),
+    ),
+    17 => 
+    array (
+      'id' => 
+      array (
+        0 => '533',
+        1 => '534',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 3,
+          'lan' => 'si',
+          'url' => 'tokyo-ghoul-s1',
+        ),
+      ),
+    ),
+    18 => 
+    array (
+      'id' => 
+      array (
+        0 => '179',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'jujutsu-kaisen-s2',
+        ),
+      ),
+    ),
+    19 => 
+    array (
+      'id' => 
+      array (
+        0 => '63',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 10,
+          'lan' => 'si',
+          'url' => 'one-piece-fs',
+        ),
+        1 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'one-piece',
+        ),
+      ),
+    ),
+    20 => 
+    array (
+      'id' => 
+      array (
+        0 => '841',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'lazarus',
+        ),
+      ),
+    ),
+    21 => 
+    array (
+      'id' => 
+      array (
+        0 => '888',
+        1 => '952',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 1,
+          'lan' => 'si',
+          'url' => 'dandadan-s2',
+        ),
+        1 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'dandadan-s2-lw',
+        ),
+      ),
+    ),
+    22 => 
+    array (
+      'id' => 
+      array (
+        0 => '58',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => '86-eighty-six',
+        ),
+      ),
+    ),
+    23 => 
+    array (
+      'id' => 
+      array (
+        0 => '816',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'blue-eye-samurai',
+        ),
+      ),
+    ),
+    24 => 
+    array (
+      'id' => 
+      array (
+        0 => '936',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'terminator-zero',
+        ),
+      ),
+    ),
+    25 => 
+    array (
+      'id' => 
+      array (
+        0 => '951',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'daily-life-of-the-immortal-king-s1',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'daily-life-of-the-immortal-king-s1',
+        ),
+      ),
+    ),
+    26 => 
+    array (
+      'id' => 
+      array (
+        0 => '144',
+        1 => '145',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 3,
+          'lan' => 'si',
+          'url' => 'haikyu-s1',
+        ),
+      ),
+    ),
+    27 => 
+    array (
+      'id' => 
+      array (
+        0 => '953',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'daily-life-of-the-immortal-king-s2',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'daily-life-of-the-immortal-king-s2',
+        ),
+      ),
+    ),
+    28 => 
+    array (
+      'id' => 
+      array (
+        0 => 'h2',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 1,
+          'lan' => 'si',
+          'url' => 'boku-no-pico',
+        ),
+      ),
+    ),
+    29 => 
+    array (
+      'id' => 
+      array (
+        0 => 'h3',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 1,
+          'lan' => 'si',
+          'url' => 'pico-to-chico',
+        ),
+      ),
+    ),
+    30 => 
+    array (
+      'id' => 
+      array (
+        0 => 'h4',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'pico-x-coco-x-chico',
+        ),
+      ),
+    ),
+    31 => 
+    array (
+      'id' => 
+      array (
+        0 => '954',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'daily-life-of-the-immortal-king-s3',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'daily-life-of-the-immortal-king-s3',
+        ),
+      ),
+    ),
+    32 => 
+    array (
+      'id' => 
+      array (
+        0 => '955',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'daily-life-of-the-immortal-king-s4',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'daily-life-of-the-immortal-king-s4',
+        ),
+      ),
+    ),
+    33 => 
+    array (
+      'id' => 
+      array (
+        0 => '984',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 5,
+          'lan' => 'si',
+          'url' => 'tales-of-herding-gods',
+        ),
+      ),
+    ),
+    34 => 
+    array (
+      'id' => 
+      array (
+        0 => '545',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 3,
+          'lan' => 'si',
+          'url' => 'vinland-saga-s1',
+        ),
+      ),
+    ),
+    35 => 
+    array (
+      'id' => 
+      array (
+        0 => '34',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 12,
+          'lan' => 'si',
+          'url' => 'a-silent-voice',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'a-silent-voice',
+        ),
+      ),
+    ),
+    36 => 
+    array (
+      'id' => 
+      array (
+        0 => '994',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'one-piece-film-red',
+        ),
+      ),
+    ),
+    37 => 
+    array (
+      'id' => 
+      array (
+        0 => '120',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'blue-lock-s1',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'blue-lock-s1',
+        ),
+      ),
+    ),
+    38 => 
+    array (
+      'id' => 
+      array (
+        0 => '995',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'the-all-devouring-whale-homecoming',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'the-all-devouring-whale-homecoming',
+        ),
+      ),
+    ),
+    39 => 
+    array (
+      'id' => 
+      array (
+        0 => '547',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'vinland-saga-s2',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'vinland-saga-s2',
+        ),
+      ),
+    ),
+    40 => 
+    array (
+      'id' => 
+      array (
+        0 => '976',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'dealing-with-mikadono-sisters-is-a-breeze',
+        ),
+      ),
+    ),
+    41 => 
+    array (
+      'id' => 
+      array (
+        0 => '919',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'dr-stone-science-future-p2',
+        ),
+      ),
+    ),
+    42 => 
+    array (
+      'id' => 
+      array (
+        0 => '906',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 1,
+          'lan' => 'si',
+          'url' => 'gachiakuta',
+        ),
+      ),
+    ),
+    43 => 
+    array (
+      'id' => 
+      array (
+        0 => '896',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'grand-blue-dreaming-s2',
+        ),
+      ),
+    ),
+    44 => 
+    array (
+      'id' => 
+      array (
+        0 => '890',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'lord-of-mysteries',
+        ),
+      ),
+    ),
+    45 => 
+    array (
+      'id' => 
+      array (
+        0 => '891',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'my-dress-up-darling-s2',
+        ),
+      ),
+    ),
+    46 => 
+    array (
+      'id' => 
+      array (
+        0 => '983',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'nukitashi-the-animation',
+        ),
+      ),
+    ),
+    47 => 
+    array (
+      'id' => 
+      array (
+        0 => '894',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'sakamoto-days-p2',
+        ),
+      ),
+    ),
+    48 => 
+    array (
+      'id' => 
+      array (
+        0 => '892',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'the-fragrant-flower-blooms-with-dignity',
+        ),
+      ),
+    ),
+    49 => 
+    array (
+      'id' => 
+      array (
+        0 => '716',
+        1 => '883',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'to-be-hero-x',
+        ),
+      ),
+    ),
+    50 => 
+    array (
+      'id' => 
+      array (
+        0 => '928',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'witch-watch',
+        ),
+      ),
+    ),
+    51 => 
+    array (
+      'id' => 
+      array (
+        0 => '893',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 1,
+          'lan' => 'si',
+          'url' => 'kaiju-no-8-s2',
+        ),
+        1 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'kaiju-no-8-s2-lw',
+        ),
+      ),
+    ),
+    52 => 
+    array (
+      'id' => 
+      array (
+        0 => '656',
+        1 => '657',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'demon-slayer-s2-mta',
+        ),
+      ),
+    ),
+    53 => 
+    array (
+      'id' => 
+      array (
+        0 => '35',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'my-hero-academia-season-1',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'my-hero-academia-season-1',
+        ),
+      ),
+    ),
+    54 => 
+    array (
+      'id' => 
+      array (
+        0 => '717',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'sword-of-the-demon-hunter-kijin-gentosho',
+        ),
+      ),
+    ),
+    55 => 
+    array (
+      'id' => 
+      array (
+        0 => '523',
+        1 => '524',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 3,
+          'lan' => 'si',
+          'url' => 'tokyo-ghoul-re-s1',
+        ),
+      ),
+    ),
+    56 => 
+    array (
+      'id' => 
+      array (
+        0 => '527',
+        1 => '528',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 3,
+          'lan' => 'si',
+          'url' => 'tokyo-ghoul-re-s2',
+        ),
+      ),
+    ),
+    57 => 
+    array (
+      'id' => 
+      array (
+        0 => '531',
+        1 => '532',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 3,
+          'lan' => 'si',
+          'url' => 'tokyo-ghoul-root-a',
+        ),
+      ),
+    ),
+    58 => 
+    array (
+      'id' => 
+      array (
+        0 => '996',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'ubel-blatt',
+        ),
+      ),
+    ),
+    59 => 
+    array (
+      'id' => 
+      array (
+        0 => '19',
+        1 => '83',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 3,
+          'lan' => 'si',
+          'url' => 'weathering-with-you',
+        ),
+      ),
+    ),
+    60 => 
+    array (
+      'id' => 
+      array (
+        0 => '116',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 3,
+          'lan' => 'si',
+          'url' => 'the-garden-of-words',
+        ),
+      ),
+    ),
+    61 => 
+    array (
+      'id' => 
+      array (
+        0 => '997',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 3,
+          'lan' => 'si',
+          'url' => 'the-tunnel-to-summer-the-exit-of-goodbyes',
+        ),
+      ),
+    ),
+    62 => 
+    array (
+      'id' => 
+      array (
+        0 => '171',
+        1 => '172',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 3,
+          'lan' => 'si',
+          'url' => 'bubble',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'bubble',
+        ),
+      ),
+    ),
+    63 => 
+    array (
+      'id' => 
+      array (
+        0 => '173',
+        1 => '174',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'shikimoris-not-just-a-cutie',
+        ),
+      ),
+    ),
+    64 => 
+    array (
+      'id' => 
+      array (
+        0 => '420',
+        1 => '421',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 6,
+          'lan' => 'si',
+          'url' => 'naruto-shippuden',
+        ),
+      ),
+    ),
+    65 => 
+    array (
+      'id' => 
+      array (
+        0 => '560',
+        1 => '561',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'fairy-tail',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'fairy-tail',
+        ),
+      ),
+    ),
+    66 => 
+    array (
+      'id' => 
+      array (
+        0 => '37',
+        1 => '626',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'my-hero-academia-season-2',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'my-hero-academia-season-2',
+        ),
+      ),
+    ),
+    67 => 
+    array (
+      'id' => 
+      array (
+        0 => '627',
+        1 => '628',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'my-hero-academia-season-3',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'my-hero-academia-season-3',
+        ),
+      ),
+    ),
+    68 => 
+    array (
+      'id' => 
+      array (
+        0 => '629',
+        1 => '630',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'my-hero-academia-season-4',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'my-hero-academia-season-4',
+        ),
+      ),
+    ),
+    69 => 
+    array (
+      'id' => 
+      array (
+        0 => '631',
+        1 => '632',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'my-hero-academia-season-5',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'my-hero-academia-season-5',
+        ),
+      ),
+    ),
+    70 => 
+    array (
+      'id' => 
+      array (
+        0 => '633',
+        1 => '634',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'my-hero-academia-season-6',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'my-hero-academia-season-6',
+        ),
+      ),
+    ),
+    71 => 
+    array (
+      'id' => 
+      array (
+        0 => '635',
+        1 => '636',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'my-hero-academia-season-7',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'my-hero-academia-season-7',
+        ),
+      ),
+    ),
+    72 => 
+    array (
+      'id' => 
+      array (
+        0 => '639',
+        1 => '640',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'my-hero-academia-memories',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'my-hero-academia-memories',
+        ),
+      ),
+    ),
+    73 => 
+    array (
+      'id' => 
+      array (
+        0 => '641',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'my-hero-academia-training-of-the-dead',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'my-hero-academia-training-of-the-dead',
+        ),
+      ),
+    ),
+    74 => 
+    array (
+      'id' => 
+      array (
+        0 => '1007',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'one-punch-man-season-3-lw',
+        ),
+        1 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'one-punch-man-season-3',
+        ),
+      ),
+    ),
+    75 => 
+    array (
+      'id' => 
+      array (
+        0 => '1008',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'spy-x-family-s3-lw',
+        ),
+        1 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'spy-x-family-s3',
+        ),
+      ),
+    ),
+    76 => 
+    array (
+      'id' => 
+      array (
+        0 => '1009',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'my-hero-academia-final-season',
+        ),
+      ),
+    ),
+    77 => 
+    array (
+      'id' => 
+      array (
+        0 => '853',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 7,
+          'lan' => 'si',
+          'url' => 'the-super-cube',
+        ),
+      ),
+    ),
+    78 => 
+    array (
+      'id' => 
+      array (
+        0 => '1026',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 3,
+          'lan' => 'si',
+          'url' => 'devilman-crybaby',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'devilman-crybaby',
+        ),
+      ),
+    ),
+    79 => 
+    array (
+      'id' => 
+      array (
+        0 => '97',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 3,
+          'lan' => 'si',
+          'url' => 'spirited-away',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'spirited-away',
+        ),
+      ),
+    ),
+    80 => 
+    array (
+      'id' => 
+      array (
+        0 => '991',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'dragon-raja-s1',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'dragon-raja-s1',
+        ),
+      ),
+    ),
+    81 => 
+    array (
+      'id' => 
+      array (
+        0 => '91',
+        1 => '90',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 8,
+          'lan' => 'si',
+          'url' => 'call-of-the-night-s1',
+        ),
+      ),
+    ),
+    82 => 
+    array (
+      'id' => 
+      array (
+        0 => '1031',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'i-parry-everything',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'i-parry-everything',
+        ),
+      ),
+    ),
+    83 => 
+    array (
+      'id' => 
+      array (
+        0 => '1032',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'studio-apartment-good-lighting-angel-included',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'studio-apartment-good-lighting-angel-included',
+        ),
+      ),
+    ),
+    84 => 
+    array (
+      'id' => 
+      array (
+        0 => '71',
+        1 => '45',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'jujutsu-kaisen-s1',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'jujutsu-kaisen-s1',
+        ),
+      ),
+    ),
+    85 => 
+    array (
+      'id' => 
+      array (
+        0 => '98',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'record-of-ragnarok-s1',
+        ),
+      ),
+    ),
+    86 => 
+    array (
+      'id' => 
+      array (
+        0 => '669',
+        1 => '670',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'welcome-to-the-space-show',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'welcome-to-the-space-show',
+        ),
+      ),
+    ),
+    87 => 
+    array (
+      'id' => 
+      array (
+        0 => '479',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'mob-psycho-100-s1',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'mob-psycho-100-s1',
+        ),
+      ),
+    ),
+    88 => 
+    array (
+      'id' => 
+      array (
+        0 => '489',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'mob-psycho-mini',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'mob-psycho-mini',
+        ),
+      ),
+    ),
+    89 => 
+    array (
+      'id' => 
+      array (
+        0 => '929',
+        1 => '898',
+        2 => '1033',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'chainsaw-man-the-movie-reze-arc',
+        ),
+        1 => 
+        array (
+          'auth' => 16,
+          'lan' => 'si',
+          'url' => 'chainsaw-man-the-movie-reze-arc-2',
+        ),
+        2 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'chainsaw-man-the-movie-reze-arc',
+        ),
+      ),
+    ),
+    90 => 
+    array (
+      'id' => 
+      array (
+        0 => '182',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'record-of-ragnarok-s2-p1',
+        ),
+      ),
+    ),
+    91 => 
+    array (
+      'id' => 
+      array (
+        0 => '827',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'record-of-ragnarok-s2-p2',
+        ),
+      ),
+    ),
+    92 => 
+    array (
+      'id' => 
+      array (
+        0 => '829',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'record-of-ragnarok-s3-lw',
+        ),
+        1 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'record-of-ragnarok-s3',
+        ),
+        2 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'record-of-ragnarok-s3',
+        ),
+      ),
+    ),
+    93 => 
+    array (
+      'id' => 
+      array (
+        0 => '1042',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'aura-koga-maryuins-last-war',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'aura-koga-maryuins-last-war',
+        ),
+      ),
+    ),
+    94 => 
+    array (
+      'id' => 
+      array (
+        0 => '105',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'spy-x-family-code-white',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'spy-x-family-code-white',
+        ),
+      ),
+    ),
+    95 => 
+    array (
+      'id' => 
+      array (
+        0 => '480',
+        1 => '106',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'gakuen-alice',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'gakuen-alice',
+        ),
+      ),
+    ),
+    96 => 
+    array (
+      'id' => 
+      array (
+        0 => '914',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'tougen-anki-lw',
+        ),
+        1 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'tougen-anki',
+        ),
+        2 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'tougen-anki',
+        ),
+      ),
+    ),
+    97 => 
+    array (
+      'id' => 
+      array (
+        0 => '482',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 9,
+          'lan' => 'si',
+          'url' => 'lost-in-starlight',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'lost-in-starlight',
+        ),
+      ),
+    ),
+    98 => 
+    array (
+      'id' => 
+      array (
+        0 => '1043',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'tokyo-godfathers',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'tokyo-godfathers',
+        ),
+      ),
+    ),
+    99 => 
+    array (
+      'id' => 
+      array (
+        0 => '1044',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 9,
+          'lan' => 'si',
+          'url' => 'jujutsu-kaisen-hidden-inventory-premature-death-2',
+        ),
+        1 => 
+        array (
+          'auth' => 6,
+          'lan' => 'si',
+          'url' => 'jujutsu-kaisen-hidden-inventory-premature-death',
+        ),
+        2 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'jujutsu-kaisen-hidden-inventory-premature-death',
+        ),
+      ),
+    ),
+    100 => 
+    array (
+      'id' => 
+      array (
+        0 => '1045',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 3,
+          'lan' => 'si',
+          'url' => 'anthem-of-the-heart',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'anthem-of-the-heart',
+        ),
+      ),
+    ),
+    101 => 
+    array (
+      'id' => 
+      array (
+        0 => '759',
+        1 => '758',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'high-school-of-the-dead',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'high-school-of-the-dead',
+        ),
+      ),
+    ),
+    102 => 
+    array (
+      'id' => 
+      array (
+        0 => '761',
+        1 => '760',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'highschool-of-the-dead-drifters-of-the-dead',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'highschool-of-the-dead-drifters-of-the-dead',
+        ),
+      ),
+    ),
+    103 => 
+    array (
+      'id' => 
+      array (
+        0 => '25',
+        1 => '96',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 12,
+          'lan' => 'si',
+          'url' => 'attack-on-titan-s1',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'attack-on-titan-s1',
+        ),
+      ),
+    ),
+    104 => 
+    array (
+      'id' => 
+      array (
+        0 => '1046',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'the-boy-and-the-beast',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'the-boy-and-the-beast',
+        ),
+      ),
+    ),
+    105 => 
+    array (
+      'id' => 
+      array (
+        0 => '176',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 12,
+          'lan' => 'si',
+          'url' => 'akira',
+        ),
+      ),
+    ),
+    106 => 
+    array (
+      'id' => 
+      array (
+        0 => '30',
+        1 => '980',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 13,
+          'lan' => 'si',
+          'url' => 'i-want-to-eat-your-pancreas',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'i-want-to-eat-your-pancreas',
+        ),
+      ),
+    ),
+    107 => 
+    array (
+      'id' => 
+      array (
+        0 => '175',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 12,
+          'lan' => 'si',
+          'url' => 'paprika',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'paprika',
+        ),
+      ),
+    ),
+    108 => 
+    array (
+      'id' => 
+      array (
+        0 => '1047',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 14,
+          'lan' => 'si',
+          'url' => 'threads-of-fate-a-war-untold',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'threads-of-fate-a-war-untold',
+        ),
+      ),
+    ),
+    109 => 
+    array (
+      'id' => 
+      array (
+        0 => '897',
+        1 => '1024',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 8,
+          'lan' => 'si',
+          'url' => 'demon-slayer-infinity-castle-2',
+        ),
+        1 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'demon-slayer-infinity-castle',
+        ),
+        2 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'demon-slayer-infinity-castle',
+        ),
+      ),
+    ),
+    110 => 
+    array (
+      'id' => 
+      array (
+        0 => '204',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'cyberpunk-edgerunners',
+        ),
+      ),
+    ),
+    111 => 
+    array (
+      'id' => 
+      array (
+        0 => '103',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'solo-leveling-s1',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'si',
+          'url' => 'solo-leveling-s1-2',
+        ),
+        2 => 
+        array (
+          'auth' => 15,
+          'lan' => 'si',
+          'url' => 'solo-leveling-s1-3',
+        ),
+      ),
+    ),
+    112 => 
+    array (
+      'id' => 
+      array (
+        0 => '26',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 12,
+          'lan' => 'si',
+          'url' => 'attack-on-titan-s2',
+        ),
+      ),
+    ),
+    113 => 
+    array (
+      'id' => 
+      array (
+        0 => '165',
+        1 => '166',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'heavenly-delusion',
+        ),
+      ),
+    ),
+    114 => 
+    array (
+      'id' => 
+      array (
+        0 => '1058',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 5,
+          'lan' => 'si',
+          'url' => 'tiger-crane',
+        ),
+      ),
+    ),
+    115 => 
+    array (
+      'id' => 
+      array (
+        0 => '1059',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 5,
+          'lan' => 'si',
+          'url' => 'throne-of-seal-movie-the-legend-of-electrolux',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'throne-of-seal-movie-the-legend-of-electrolux',
+        ),
+      ),
+    ),
+    116 => 
+    array (
+      'id' => 
+      array (
+        0 => '1060',
+        1 => '1061',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 8,
+          'lan' => 'si',
+          'url' => 'jujutsu-kaisen-s3-p1',
+        ),
+        1 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'jujutsu-kaisen-s3-p1-lw',
+        ),
+      ),
+    ),
+    117 => 
+    array (
+      'id' => 
+      array (
+        0 => '231',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 17,
+          'lan' => 'si',
+          'url' => 'chainsaw-man-s1',
+        ),
+      ),
+    ),
+    118 => 
+    array (
+      'id' => 
+      array (
+        0 => '1062',
+        1 => '1063',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 8,
+          'lan' => 'si',
+          'url' => 'chained-soldier-s2',
+        ),
+      ),
+    ),
+    119 => 
+    array (
+      'id' => 
+      array (
+        0 => '1064',
+        1 => '1065',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 8,
+          'lan' => 'si',
+          'url' => 'hells-paradise-s2',
+        ),
+        1 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'hells-paradise-s2-lw',
+        ),
+      ),
+    ),
+    120 => 
+    array (
+      'id' => 
+      array (
+        0 => '311',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'your-lie-in-april',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'your-lie-in-april',
+        ),
+      ),
+    ),
+    121 => 
+    array (
+      'id' => 
+      array (
+        0 => '312',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'your-lie-in-april-moments',
+        ),
+      ),
+    ),
+    122 => 
+    array (
+      'id' => 
+      array (
+        0 => '767',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 18,
+          'lan' => 'si',
+          'url' => 'mashle-magic-and-muscles-s2',
+        ),
+        1 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'mashle-magic-and-muscles-s2-2',
+        ),
+      ),
+    ),
+    123 => 
+    array (
+      'id' => 
+      array (
+        0 => '10',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 19,
+          'lan' => 'si',
+          'url' => 'kaiju-no-8-s1',
+        ),
+      ),
+    ),
+    124 => 
+    array (
+      'id' => 
+      array (
+        0 => '1067',
+        1 => '1068',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 8,
+          'lan' => 'si',
+          'url' => 'frieren-beyond-journeys-end-s2',
+        ),
+      ),
+    ),
+    125 => 
+    array (
+      'id' => 
+      array (
+        0 => '1077',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'jin-roh-the-wolf-brigade',
+        ),
+      ),
+    ),
+    126 => 
+    array (
+      'id' => 
+      array (
+        0 => '998',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 17,
+          'lan' => 'si',
+          'url' => 'suzume',
+        ),
+      ),
+    ),
+    127 => 
+    array (
+      'id' => 
+      array (
+        0 => '12',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 13,
+          'lan' => 'si',
+          'url' => 'darling-in-the-franxx',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'darling-in-the-franxx',
+        ),
+      ),
+    ),
+    128 => 
+    array (
+      'id' => 
+      array (
+        0 => '181',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'jujutsu-kaisen-0',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'jujutsu-kaisen-0',
+        ),
+      ),
+    ),
+    129 => 
+    array (
+      'id' => 
+      array (
+        0 => '933',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 17,
+          'lan' => 'si',
+          'url' => 'summer-ghost',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'summer-ghost',
+        ),
+      ),
+    ),
+    130 => 
+    array (
+      'id' => 
+      array (
+        0 => '1078',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 17,
+          'lan' => 'si',
+          'url' => 'colorful-the-motion-picture',
+        ),
+      ),
+    ),
+    131 => 
+    array (
+      'id' => 
+      array (
+        0 => '232',
+        1 => '419',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 8,
+          'lan' => 'si',
+          'url' => 'the-future-diary',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'the-future-diary',
+        ),
+      ),
+    ),
+    132 => 
+    array (
+      'id' => 
+      array (
+        0 => '843',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'the-future-diary-redial',
+        ),
+      ),
+    ),
+    133 => 
+    array (
+      'id' => 
+      array (
+        0 => '1066',
+        1 => '1080',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 8,
+          'lan' => 'si',
+          'url' => 'oshi-no-ko-s3',
+        ),
+      ),
+    ),
+    134 => 
+    array (
+      'id' => 
+      array (
+        0 => '418',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 1,
+          'lan' => 'si',
+          'url' => 'naruto-2',
+        ),
+        1 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'naruto',
+        ),
+        2 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'naruto',
+        ),
+      ),
+    ),
+    135 => 
+    array (
+      'id' => 
+      array (
+        0 => '949',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 4,
+          'lan' => 'si',
+          'url' => 'tatsuki-fujimoto-17-26',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'tatsuki-fujimoto-17-26',
+        ),
+      ),
+    ),
+    136 => 
+    array (
+      'id' => 
+      array (
+        0 => '13',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 1,
+          'lan' => 'si',
+          'url' => 'bleach',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'bleach',
+        ),
+      ),
+    ),
+    137 => 
+    array (
+      'id' => 
+      array (
+        0 => '1082',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 20,
+          'lan' => 'si',
+          'url' => 'vampire-hunter-d-bloodlust',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'vampire-hunter-d-bloodlust',
+        ),
+      ),
+    ),
+    138 => 
+    array (
+      'id' => 
+      array (
+        0 => '1083',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 21,
+          'lan' => 'si',
+          'url' => 'love-through-a-prism',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'love-through-a-prism',
+        ),
+      ),
+    ),
+    139 => 
+    array (
+      'id' => 
+      array (
+        0 => '1084',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 22,
+          'lan' => 'si',
+          'url' => 'kpop-demon-hunters',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'kpop-demon-hunters',
+        ),
+      ),
+    ),
+    140 => 
+    array (
+      'id' => 
+      array (
+        0 => '180',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 2,
+          'lan' => 'si',
+          'url' => 'over-the-sky',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'over-the-sky',
+        ),
+      ),
+    ),
+    141 => 
+    array (
+      'id' => 
+      array (
+        0 => '1081',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 6,
+          'lan' => 'si',
+          'url' => 'dark-moon-the-blood-altar',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'dark-moon-the-blood-altar',
+        ),
+      ),
+    ),
+    142 => 
+    array (
+      'id' => 
+      array (
+        0 => '14',
+        1 => '15',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 23,
+          'lan' => 'si',
+          'url' => 'your-name',
+        ),
+        1 => 
+        array (
+          'auth' => 24,
+          'lan' => 'si',
+          'url' => 'your-name-2',
+        ),
+        2 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'your-name',
+        ),
+      ),
+    ),
+    143 => 
+    array (
+      'id' => 
+      array (
+        0 => '340',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 25,
+          'lan' => 'si',
+          'url' => 'fatestay-night-heavens-feel-i',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'fatestay-night-heavens-feel-i',
+        ),
+      ),
+    ),
+    144 => 
+    array (
+      'id' => 
+      array (
+        0 => '344',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 25,
+          'lan' => 'si',
+          'url' => 'fatestay-night-heavens-feel-ii',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'fatestay-night-heavens-feel-ii',
+        ),
+      ),
+    ),
+    145 => 
+    array (
+      'id' => 
+      array (
+        0 => '350',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 25,
+          'lan' => 'si',
+          'url' => 'fatestay-night-heavens-feel-iii',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'fatestay-night-heavens-feel-iii',
+        ),
+      ),
+    ),
+    146 => 
+    array (
+      'id' => 
+      array (
+        0 => '517',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 25,
+          'lan' => 'si',
+          'url' => 'black-clover-sword-of-the-wizard-king',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'black-clover-sword-of-the-wizard-king',
+        ),
+      ),
+    ),
+    147 => 
+    array (
+      'id' => 
+      array (
+        0 => '1005',
+        1 => '1006',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 17,
+          'lan' => 'si',
+          'url' => 'words-bubble-up-like-soda-pop',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'words-bubble-up-like-soda-pop',
+        ),
+      ),
+    ),
+    148 => 
+    array (
+      'id' => 
+      array (
+        0 => '1079',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 26,
+          'lan' => 'si',
+          'url' => 'relife-movie',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'relife-movie',
+        ),
+      ),
+    ),
+    149 => 
+    array (
+      'id' => 
+      array (
+        0 => '64',
+        1 => '65',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 27,
+          'lan' => 'si',
+          'url' => 'stand-by-me-doraemon',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'stand-by-me-doraemon',
+        ),
+      ),
+    ),
+    150 => 
+    array (
+      'id' => 
+      array (
+        0 => '121',
+        1 => '122',
+      ),
+      'sub' => 
+      array (
+        0 => 
+        array (
+          'auth' => 27,
+          'lan' => 'si',
+          'url' => 'stand-by-me-doraemon-2',
+        ),
+        1 => 
+        array (
+          'auth' => 1,
+          'lan' => 'en',
+          'url' => 'stand-by-me-doraemon-2',
+        ),
+      ),
+    ),
+  ),
+);

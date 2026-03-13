@@ -1,0 +1,3666 @@
+<?php return array (
+  0 => 
+  array (
+    'mal_id' => 61092,
+    'airingAt' => 1772325000,
+    'episode' => 47,
+    'name' => 'Himitsu no AiPri: Ring-hen',
+    'alt_name' => 'ひみつのアイプリ リング編',
+  ),
+  1 => 
+  array (
+    'mal_id' => 62126,
+    'airingAt' => 1772325000,
+    'episode' => 21,
+    'name' => 'SI-VIS: The Sound of Heroes',
+    'alt_name' => 'SI-VIS: The Sound of Heroes',
+  ),
+  2 => 
+  array (
+    'mal_id' => 62340,
+    'airingAt' => 1772330400,
+    'episode' => 10,
+    'name' => 'Beyond Time\'s Gaze',
+    'alt_name' => '光阴之外',
+  ),
+  3 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1772330400,
+    'episode' => 31,
+    'name' => 'Dou Po Cangqiong: Nian Fan 4',
+    'alt_name' => '斗破苍穹 年番4',
+  ),
+  4 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1772330400,
+    'episode' => 359,
+    'name' => 'Wushen Zhuzai: Da Wei Pian',
+    'alt_name' => '武神主宰 大威篇',
+  ),
+  5 => 
+  array (
+    'mal_id' => 61663,
+    'airingAt' => 1772350200,
+    'episode' => 8,
+    'name' => 'In the Clear Moonlit Dusk',
+    'alt_name' => 'うるわしの宵の月',
+  ),
+  6 => 
+  array (
+    'mal_id' => 60371,
+    'airingAt' => 1772352000,
+    'episode' => 8,
+    'name' => 'You and I Are Polar Opposites',
+    'alt_name' => '正反対な君と僕',
+  ),
+  7 => 
+  array (
+    'mal_id' => 56877,
+    'airingAt' => 1772352000,
+    'episode' => 21,
+    'name' => 'Blue Orchestra Season 2',
+    'alt_name' => '青のオーケストラ Season2',
+  ),
+  8 => 
+  array (
+    'mal_id' => 60223,
+    'airingAt' => 1772353800,
+    'episode' => 8,
+    'name' => 'Kaya-chan Isn\'t Scary',
+    'alt_name' => 'カヤちゃんはコワくない',
+  ),
+  9 => 
+  array (
+    'mal_id' => 44042,
+    'airingAt' => 1772355600,
+    'episode' => 355,
+    'name' => 'Holo no Graffiti',
+    'alt_name' => 'ホロのぐらふぃてぃ',
+  ),
+  10 => 
+  array (
+    'mal_id' => 2406,
+    'airingAt' => 1772357400,
+    'episode' => 2821,
+    'name' => 'Sazae-san',
+    'alt_name' => 'サザエさん',
+  ),
+  11 => 
+  array (
+    'mal_id' => 58861,
+    'airingAt' => 1772368200,
+    'episode' => 10,
+    'name' => 'Hana-Kimi',
+    'alt_name' => '花ざかりの君たちへ',
+  ),
+  12 => 
+  array (
+    'mal_id' => 60810,
+    'airingAt' => 1772370000,
+    'episode' => 10,
+    'name' => 'Kunon the Sorcerer Can See',
+    'alt_name' => '魔術師クノンは見えている',
+  ),
+  13 => 
+  array (
+    'mal_id' => 62000,
+    'airingAt' => 1772373600,
+    'episode' => 8,
+    'name' => 'The Villainess Is Adored by the Prince of the Neighbor Kingdom',
+    'alt_name' => '悪役令嬢は隣国の王太子に溺愛される',
+  ),
+  14 => 
+  array (
+    'mal_id' => 61084,
+    'airingAt' => 1772375400,
+    'episode' => 7,
+    'name' => 'Oedo Fire Slayer -The Legend of Phoenix-',
+    'alt_name' => '火喰鳥',
+  ),
+  15 => 
+  array (
+    'mal_id' => 55825,
+    'airingAt' => 1772376240,
+    'episode' => 8,
+    'name' => 'Hell’s Paradise Season 2',
+    'alt_name' => '地獄楽 第二期',
+  ),
+  16 => 
+  array (
+    'mal_id' => 60692,
+    'airingAt' => 1772377200,
+    'episode' => 9,
+    'name' => 'Noble Reincarnation: Born Blessed, So I\'ll Obtain Ultimate Power',
+    'alt_name' => '貴族転生 ～恵まれた生まれから最強の力を得る～',
+  ),
+  17 => 
+  array (
+    'mal_id' => 58788,
+    'airingAt' => 1772377200,
+    'episode' => 9,
+    'name' => 'Journal with Witch',
+    'alt_name' => '違国日記',
+  ),
+  18 => 
+  array (
+    'mal_id' => 61886,
+    'airingAt' => 1772379000,
+    'episode' => 9,
+    'name' => 'The Daily Life of a Part-time Torturer',
+    'alt_name' => '拷問バイトくんの日常',
+  ),
+  19 => 
+  array (
+    'mal_id' => 63096,
+    'airingAt' => 1772380800,
+    'episode' => 7,
+    'name' => 'Ren Arisugawa Is Actually a Girl',
+    'alt_name' => '有栖川煉ってホントは女なんだよね。',
+  ),
+  20 => 
+  array (
+    'mal_id' => 62897,
+    'airingAt' => 1772381100,
+    'episode' => 9,
+    'name' => 'Ichigo Aika: Strawberry Elegy',
+    'alt_name' => 'イチゴ哀歌～雑で生イキな妹と割り切れない兄～',
+  ),
+  21 => 
+  array (
+    'mal_id' => 63087,
+    'airingAt' => 1772385600,
+    'episode' => 8,
+    'name' => 'Theatre of Darkness: Yamishibai 16',
+    'alt_name' => '闇芝居 十六期',
+  ),
+  22 => 
+  array (
+    'mal_id' => 55809,
+    'airingAt' => 1772416800,
+    'episode' => 130,
+    'name' => 'Renegade Immortal',
+    'alt_name' => '仙逆',
+  ),
+  23 => 
+  array (
+    'mal_id' => 62987,
+    'airingAt' => 1772449200,
+    'episode' => 9,
+    'name' => 'Hokuto no Ken: Kenou-gun Zako-tachi no Banka',
+    'alt_name' => '北斗の拳 拳王軍ザコたちの挽歌',
+  ),
+  24 => 
+  array (
+    'mal_id' => 61782,
+    'airingAt' => 1772456400,
+    'episode' => 9,
+    'name' => 'Wash It All Away',
+    'alt_name' => '綺麗にしてもらえますか。',
+  ),
+  25 => 
+  array (
+    'mal_id' => 61942,
+    'airingAt' => 1772456400,
+    'episode' => 9,
+    'name' => 'My Hero Academia: Vigilantes Season 2',
+    'alt_name' => 'ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期',
+  ),
+  26 => 
+  array (
+    'mal_id' => 55772,
+    'airingAt' => 1772460000,
+    'episode' => 9,
+    'name' => 'Golden Kamuy Final Season',
+    'alt_name' => 'ゴールデンカムイ 最終章',
+  ),
+  27 => 
+  array (
+    'mal_id' => 58524,
+    'airingAt' => 1772461800,
+    'episode' => 8,
+    'name' => '\'Tis Time for "Torture," Princess Season 2',
+    'alt_name' => '姫様“拷問”の時間です 第2期',
+  ),
+  28 => 
+  array (
+    'mal_id' => 61359,
+    'airingAt' => 1772463600,
+    'episode' => 9,
+    'name' => 'You Can\'t Be In a Rom-Com with Your Childhood Friends!',
+    'alt_name' => '幼馴染とはラブコメにならない',
+  ),
+  29 => 
+  array (
+    'mal_id' => 62927,
+    'airingAt' => 1772481600,
+    'episode' => 1,
+    'name' => 'Release that Witch',
+    'alt_name' => '放开那个女巫',
+  ),
+  30 => 
+  array (
+    'mal_id' => 50250,
+    'airingAt' => 1772491200,
+    'episode' => 322,
+    'name' => 'Chiikawa',
+    'alt_name' => 'ちいかわ',
+  ),
+  31 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1772503200,
+    'episode' => 360,
+    'name' => 'Wushen Zhuzai: Da Wei Pian',
+    'alt_name' => '武神主宰 大威篇',
+  ),
+  32 => 
+  array (
+    'mal_id' => 61884,
+    'airingAt' => 1772542800,
+    'episode' => 10,
+    'name' => 'The Demon King\'s Daughter is Too Kind!!',
+    'alt_name' => '魔王の娘は優しすぎる!!',
+  ),
+  33 => 
+  array (
+    'mal_id' => 61211,
+    'airingAt' => 1772546400,
+    'episode' => 9,
+    'name' => 'Tune In to the Midnight Heart',
+    'alt_name' => '真夜中ハートチューン',
+  ),
+  34 => 
+  array (
+    'mal_id' => 60226,
+    'airingAt' => 1772546400,
+    'episode' => 9,
+    'name' => 'Isekai Office Worker: The Other World\'s Books Depend on the Bean Counter',
+    'alt_name' => '異世界の沙汰は社畜次第',
+  ),
+  35 => 
+  array (
+    'mal_id' => 61983,
+    'airingAt' => 1772546400,
+    'episode' => 9,
+    'name' => 'There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her',
+    'alt_name' => '勇者パーティーにかわいい子がいたので、告白してみた。',
+  ),
+  36 => 
+  array (
+    'mal_id' => 61830,
+    'airingAt' => 1772548200,
+    'episode' => 9,
+    'name' => 'Yoroi-Shinden Samurai Troopers',
+    'alt_name' => '鎧真伝サムライトルーパー',
+  ),
+  37 => 
+  array (
+    'mal_id' => 58886,
+    'airingAt' => 1772550000,
+    'episode' => 9,
+    'name' => 'The Darwin Incident',
+    'alt_name' => 'ダーウィン事変',
+  ),
+  38 => 
+  array (
+    'mal_id' => 60255,
+    'airingAt' => 1772555340,
+    'episode' => 9,
+    'name' => 'The Case Book of Arne',
+    'alt_name' => 'アルネの事件簿',
+  ),
+  39 => 
+  array (
+    'mal_id' => 62662,
+    'airingAt' => 1772575200,
+    'episode' => 21,
+    'name' => 'Dokodemo Makibao: World Tour',
+    'alt_name' => 'どこでもマキバオー ～ワールドツアー～',
+  ),
+  40 => 
+  array (
+    'mal_id' => 61765,
+    'airingAt' => 1772575560,
+    'episode' => 36,
+    'name' => 'Chibi Godzilla Raids Again Season 3',
+    'alt_name' => 'ちびゴジラの逆襲(第3期)',
+  ),
+  41 => 
+  array (
+    'mal_id' => 63151,
+    'airingAt' => 1772578800,
+    'episode' => 9,
+    'name' => 'mofusand',
+    'alt_name' => 'mofusand ',
+  ),
+  42 => 
+  array (
+    'mal_id' => 63216,
+    'airingAt' => 1772585640,
+    'episode' => 7,
+    'name' => 'GelPiyo',
+    'alt_name' => 'ゲルぴよ',
+  ),
+  43 => 
+  array (
+    'mal_id' => 51289,
+    'airingAt' => 1772589600,
+    'episode' => 151,
+    'name' => 'Shrouding the Heavens',
+    'alt_name' => '遮天',
+  ),
+  44 => 
+  array (
+    'mal_id' => 61254,
+    'airingAt' => 1772622000,
+    'episode' => 21,
+    'name' => 'Cat Tales',
+    'alt_name' => 'うごく！ねこむかしばなし',
+  ),
+  45 => 
+  array (
+    'mal_id' => 61637,
+    'airingAt' => 1772627400,
+    'episode' => 9,
+    'name' => 'An Adventurer’s Daily Grind at Age 29',
+    'alt_name' => '29歳独身中堅冒険者の日常',
+  ),
+  46 => 
+  array (
+    'mal_id' => 61549,
+    'airingAt' => 1772629200,
+    'episode' => 9,
+    'name' => 'Easygoing Territory Defense by the Optimistic Lord',
+    'alt_name' => 'お気楽領主の楽しい領地防衛',
+  ),
+  47 => 
+  array (
+    'mal_id' => 60058,
+    'airingAt' => 1772632800,
+    'episode' => 8,
+    'name' => '【OSHI NO KO】Season 3',
+    'alt_name' => '【推しの子】第3期',
+  ),
+  48 => 
+  array (
+    'mal_id' => 59711,
+    'airingAt' => 1772634600,
+    'episode' => 9,
+    'name' => 'SHIBOYUGI: Playing Death Games to Put Food on the Table',
+    'alt_name' => '死亡遊戯で飯を食う。',
+  ),
+  49 => 
+  array (
+    'mal_id' => 61608,
+    'airingAt' => 1772635560,
+    'episode' => 9,
+    'name' => 'Hell Teacher: Jigoku Sensei Nube (2025) Part 2',
+    'alt_name' => '地獄先生ぬ～べ～ (2025) 第2クール',
+  ),
+  50 => 
+  array (
+    'mal_id' => 61128,
+    'airingAt' => 1772636400,
+    'episode' => 10,
+    'name' => 'Jack-of-All-Trades, Party of None',
+    'alt_name' => '勇者パーティを追い出された器用貧乏',
+  ),
+  51 => 
+  array (
+    'mal_id' => 60071,
+    'airingAt' => 1772636400,
+    'episode' => 9,
+    'name' => 'A Gentle Noble\'s Vacation Recommendation',
+    'alt_name' => '穏やか貴族の休暇のすすめ。',
+  ),
+  52 => 
+  array (
+    'mal_id' => 59047,
+    'airingAt' => 1772636400,
+    'episode' => 10,
+    'name' => 'Tamon\'s B-Side',
+    'alt_name' => '多聞くん今どっち！？',
+  ),
+  53 => 
+  array (
+    'mal_id' => 63275,
+    'airingAt' => 1772661600,
+    'episode' => 9,
+    'name' => 'Black Jack Yanen',
+    'alt_name' => 'ブラックジャックやねん',
+  ),
+  54 => 
+  array (
+    'mal_id' => 62676,
+    'airingAt' => 1772703000,
+    'episode' => 21,
+    'name' => 'PetitCure: Precure Fairies Season 2',
+    'alt_name' => 'ぷちきゅあ～Precure Fairies～ シーズン２',
+  ),
+  55 => 
+  array (
+    'mal_id' => 62005,
+    'airingAt' => 1772708400,
+    'episode' => 23,
+    'name' => 'Koala\'s Diary',
+    'alt_name' => 'コアラ絵日記',
+  ),
+  56 => 
+  array (
+    'mal_id' => 60591,
+    'airingAt' => 1772708400,
+    'episode' => 19,
+    'name' => 'Reborn as a Cat',
+    'alt_name' => '为喵人生',
+  ),
+  57 => 
+  array (
+    'mal_id' => 61107,
+    'airingAt' => 1772715600,
+    'episode' => 22,
+    'name' => 'GANSO! BanG Dream Chan',
+    'alt_name' => '元祖！バンドリちゃん',
+  ),
+  58 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1772716020,
+    'episode' => 1,
+    'name' => 'Fashion Beat',
+    'alt_name' => 'ファッションビート',
+  ),
+  59 => 
+  array (
+    'mal_id' => 56009,
+    'airingAt' => 1772717400,
+    'episode' => 9,
+    'name' => 'Sentenced to Be a Hero',
+    'alt_name' => '勇者刑に処す　懲罰勇者9004隊刑務記録',
+  ),
+  60 => 
+  array (
+    'mal_id' => 58505,
+    'airingAt' => 1772719200,
+    'episode' => 9,
+    'name' => 'Chained Soldier Season 2',
+    'alt_name' => '魔都精兵のスレイブ2',
+  ),
+  61 => 
+  array (
+    'mal_id' => 60395,
+    'airingAt' => 1772721000,
+    'episode' => 9,
+    'name' => 'The Invisible Man and His Soon-to-Be Wife',
+    'alt_name' => '透明男と人間女～そのうち夫婦になるふたり～',
+  ),
+  62 => 
+  array (
+    'mal_id' => 60602,
+    'airingAt' => 1772721000,
+    'episode' => 10,
+    'name' => 'MF GHOST Season 3',
+    'alt_name' => 'MFゴースト 3rd Season',
+  ),
+  63 => 
+  array (
+    'mal_id' => 60151,
+    'airingAt' => 1772722560,
+    'episode' => 9,
+    'name' => 'The Holy Grail of Eris',
+    'alt_name' => 'エリスの聖杯',
+  ),
+  64 => 
+  array (
+    'mal_id' => 61227,
+    'airingAt' => 1772722800,
+    'episode' => 3,
+    'name' => 'Girls und Panzer: Motto Love Love Sakusen desu!',
+    'alt_name' => 'ガールズ＆パンツァー もっとらぶらぶ作戦です！',
+  ),
+  65 => 
+  array (
+    'mal_id' => 58735,
+    'airingAt' => 1772722800,
+    'episode' => 1,
+    'name' => 'Hanarokushou ga Akeru Hi ni',
+    'alt_name' => '花緑青が明ける日に',
+  ),
+  66 => 
+  array (
+    'mal_id' => 62686,
+    'airingAt' => 1772722800,
+    'episode' => 2,
+    'name' => 'Seifuku wa Kita mama de',
+    'alt_name' => '制服は着たままで',
+  ),
+  67 => 
+  array (
+    'mal_id' => 57658,
+    'airingAt' => 1772724360,
+    'episode' => 9,
+    'name' => 'JUJUTSU KAISEN Season 3: The Culling Game Part 1',
+    'alt_name' => '呪術廻戦 死滅回游 前編',
+  ),
+  68 => 
+  array (
+    'mal_id' => 61587,
+    'airingAt' => 1772724600,
+    'episode' => 9,
+    'name' => 'ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!',
+    'alt_name' => '「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい',
+  ),
+  69 => 
+  array (
+    'mal_id' => 61325,
+    'airingAt' => 1772728080,
+    'episode' => 9,
+    'name' => 'Anyway, I\'m Falling in Love with You. Season 2',
+    'alt_name' => 'どうせ、恋してしまうんだ。Season 2',
+  ),
+  70 => 
+  array (
+    'mal_id' => 60947,
+    'airingAt' => 1772729880,
+    'episode' => 47,
+    'name' => 'Nmeneko',
+    'alt_name' => 'ンめねこ',
+  ),
+  71 => 
+  array (
+    'mal_id' => 60509,
+    'airingAt' => 1772729880,
+    'episode' => 10,
+    'name' => 'Champignon Witch',
+    'alt_name' => 'シャンピニオンの魔女',
+  ),
+  72 => 
+  array (
+    'mal_id' => 8336,
+    'airingAt' => 1772748600,
+    'episode' => 646,
+    'name' => 'Hanakappa',
+    'alt_name' => 'はなかっぱ',
+  ),
+  73 => 
+  array (
+    'mal_id' => 50250,
+    'airingAt' => 1772750400,
+    'episode' => 323,
+    'name' => 'Chiikawa',
+    'alt_name' => 'ちいかわ',
+  ),
+  74 => 
+  array (
+    'mal_id' => 56566,
+    'airingAt' => 1772789100,
+    'episode' => 119,
+    'name' => 'BEYBLADE X',
+    'alt_name' => 'BEYBLADE X',
+  ),
+  75 => 
+  array (
+    'mal_id' => 53876,
+    'airingAt' => 1772790900,
+    'episode' => 130,
+    'name' => 'Pokémon Horizons: The Series',
+    'alt_name' => 'ポケットモンスター (2023)',
+  ),
+  76 => 
+  array (
+    'mal_id' => 62378,
+    'airingAt' => 1772803320,
+    'episode' => 21,
+    'name' => 'GANGLION',
+    'alt_name' => 'ガングリオン',
+  ),
+  77 => 
+  array (
+    'mal_id' => 59978,
+    'airingAt' => 1772805600,
+    'episode' => 7,
+    'name' => 'Frieren: Beyond Journey’s End Season 2',
+    'alt_name' => '葬送のフリーレン 第2期',
+  ),
+  78 => 
+  array (
+    'mal_id' => 62804,
+    'airingAt' => 1772807400,
+    'episode' => 9,
+    'name' => 'High School! Kimengumi (2026)',
+    'alt_name' => 'ハイスクール！奇面組 (2026)',
+  ),
+  79 => 
+  array (
+    'mal_id' => 59853,
+    'airingAt' => 1772809200,
+    'episode' => 9,
+    'name' => 'DARK MOON: THE BLOOD ALTAR',
+    'alt_name' => 'DARK MOON　-黒の月: 月の祭壇-',
+  ),
+  80 => 
+  array (
+    'mal_id' => 63330,
+    'airingAt' => 1772812800,
+    'episode' => 1,
+    'name' => 'Does it Count if You Lose Your Innocence to an Android?: Five Days Running...?',
+    'alt_name' => 'アンドロイドは経験人数に入りますか？？ 5日間続けて……？',
+  ),
+  81 => 
+  array (
+    'mal_id' => 60460,
+    'airingAt' => 1772814900,
+    'episode' => 9,
+    'name' => 'HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing',
+    'alt_name' => 'ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～',
+  ),
+  82 => 
+  array (
+    'mal_id' => 59229,
+    'airingAt' => 1772815980,
+    'episode' => 9,
+    'name' => 'Fire Force Season 3 Part 2',
+    'alt_name' => '炎炎ノ消防隊 参ノ章 第2クール',
+  ),
+  83 => 
+  array (
+    'mal_id' => 63106,
+    'airingAt' => 1772827200,
+    'episode' => 9,
+    'name' => 'Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu',
+    'alt_name' => 'ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～',
+  ),
+  84 => 
+  array (
+    'mal_id' => 62231,
+    'airingAt' => 1772830800,
+    'episode' => 23,
+    'name' => 'JOCHUM Season 2',
+    'alt_name' => 'ジェオチャム シーズン2 ',
+  ),
+  85 => 
+  array (
+    'mal_id' => 60070,
+    'airingAt' => 1772834400,
+    'episode' => 48,
+    'name' => 'Kaijuu Sekai Seifuku',
+    'alt_name' => 'かいじゅうせかいせいふく',
+  ),
+  86 => 
+  array (
+    'mal_id' => 50418,
+    'airingAt' => 1772836200,
+    'episode' => 206,
+    'name' => 'Ninjala the Animation',
+    'alt_name' => 'ニンジャラ',
+  ),
+  87 => 
+  array (
+    'mal_id' => 62649,
+    'airingAt' => 1772838000,
+    'episode' => 7,
+    'name' => 'Cardfight!! Vanguard: Divinez Genma Seisen-hen',
+    'alt_name' => 'カードファイト!! ヴァンガード Divinez 幻真星戦編',
+  ),
+  88 => 
+  array (
+    'mal_id' => 51836,
+    'airingAt' => 1772848800,
+    'episode' => 143,
+    'name' => 'Soul Land 2: The Peerless Tang Clan',
+    'alt_name' => '斗罗大陆2绝世唐门',
+  ),
+  89 => 
+  array (
+    'mal_id' => 966,
+    'airingAt' => 1772868600,
+    'episode' => 1325,
+    'name' => 'Shin Chan',
+    'alt_name' => 'クレヨンしんちゃん',
+  ),
+  90 => 
+  array (
+    'mal_id' => 8687,
+    'airingAt' => 1772870400,
+    'episode' => 905,
+    'name' => 'Doraemon (2005)',
+    'alt_name' => 'ドラえもん (2005)',
+  ),
+  91 => 
+  array (
+    'mal_id' => 61114,
+    'airingAt' => 1772870400,
+    'episode' => 1,
+    'name' => 'BEASTARS Final Season Part 2',
+    'alt_name' => 'BEASTARS FINAL SEASON Part 2',
+  ),
+  92 => 
+  array (
+    'mal_id' => 61333,
+    'airingAt' => 1772872200,
+    'episode' => 11,
+    'name' => 'Blue Miburo Season 2',
+    'alt_name' => '青のミブロ 芹沢暗殺編',
+  ),
+  93 => 
+  array (
+    'mal_id' => 235,
+    'airingAt' => 1772874000,
+    'episode' => 1192,
+    'name' => 'Case Closed',
+    'alt_name' => '名探偵コナン',
+  ),
+  94 => 
+  array (
+    'mal_id' => 60983,
+    'airingAt' => 1772875500,
+    'episode' => 18,
+    'name' => 'Kagaku×Bouken Survival! 2nd Season',
+    'alt_name' => '科学×冒険サバイバル！ 第2シリーズ',
+  ),
+  95 => 
+  array (
+    'mal_id' => 61207,
+    'airingAt' => 1772886600,
+    'episode' => 9,
+    'name' => 'Reincarnated as a Dragon Hatchling',
+    'alt_name' => '転生したらドラゴンの卵だった',
+  ),
+  96 => 
+  array (
+    'mal_id' => 62864,
+    'airingAt' => 1772886600,
+    'episode' => 9,
+    'name' => 'Omae wa Mada Gunma wo Shiranai: Reiwa-ban',
+    'alt_name' => 'お前はまだグンマを知らない～令和版～ ',
+  ),
+  97 => 
+  array (
+    'mal_id' => 61969,
+    'airingAt' => 1772888400,
+    'episode' => 10,
+    'name' => 'I\'ll Live a Long Life to Dote on My Favorite Stepbrother!',
+    'alt_name' => '最推しの義兄を愛でるため、長生きします！',
+  ),
+  98 => 
+  array (
+    'mal_id' => 54863,
+    'airingAt' => 1772892000,
+    'episode' => 9,
+    'name' => 'TRIGUN STARGAZE',
+    'alt_name' => 'TRIGUN STARGAZE',
+  ),
+  99 => 
+  array (
+    'mal_id' => 61196,
+    'airingAt' => 1772893800,
+    'episode' => 9,
+    'name' => 'Dead Account',
+    'alt_name' => 'デッドアカウント',
+  ),
+  100 => 
+  array (
+    'mal_id' => 55830,
+    'airingAt' => 1772893800,
+    'episode' => 10,
+    'name' => 'Fate/strange Fake',
+    'alt_name' => 'Fate/strange Fake',
+  ),
+  101 => 
+  array (
+    'mal_id' => 54703,
+    'airingAt' => 1772894700,
+    'episode' => 18,
+    'name' => 'To Your Eternity Season 3',
+    'alt_name' => '不滅のあなたへ Season 3',
+  ),
+  102 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1772895600,
+    'episode' => 21,
+    'name' => 'Mu Shen Ji 3',
+    'alt_name' => '牧神记3',
+  ),
+  103 => 
+  array (
+    'mal_id' => 62432,
+    'airingAt' => 1772895600,
+    'episode' => 9,
+    'name' => 'A Misanthrope Teaches a Class for Demi-Humans',
+    'alt_name' => '人外教室の人間嫌い教師',
+  ),
+  104 => 
+  array (
+    'mal_id' => 60427,
+    'airingAt' => 1772895600,
+    'episode' => 20,
+    'name' => 'GNOSIA',
+    'alt_name' => 'グノーシア',
+  ),
+  105 => 
+  array (
+    'mal_id' => 61159,
+    'airingAt' => 1772897400,
+    'episode' => 22,
+    'name' => 'Tojima Wants to Be a Kamen Rider',
+    'alt_name' => '東島丹三郎は仮面ライダーになりたい',
+  ),
+  106 => 
+  array (
+    'mal_id' => 61217,
+    'airingAt' => 1772898960,
+    'episode' => 9,
+    'name' => 'Scum of the Brave',
+    'alt_name' => '勇者のクズ',
+  ),
+  107 => 
+  array (
+    'mal_id' => 61335,
+    'airingAt' => 1772901000,
+    'episode' => 7,
+    'name' => 'Medalist Season 2',
+    'alt_name' => 'メダリスト 第2期',
+  ),
+  108 => 
+  array (
+    'mal_id' => 60596,
+    'airingAt' => 1772921760,
+    'episode' => 48,
+    'name' => 'Sai-Kyo-Oh! Zukan: The Ultimate Tournament',
+    'alt_name' => '最強王図鑑 ～The Ultimate Tournament～',
+  ),
+  109 => 
+  array (
+    'mal_id' => 60534,
+    'airingAt' => 1772926080,
+    'episode' => 49,
+    'name' => 'Koupen-chan',
+    'alt_name' => 'コウペンちゃん',
+  ),
+  110 => 
+  array (
+    'mal_id' => 63042,
+    'airingAt' => 1772926200,
+    'episode' => 6,
+    'name' => 'Star Detective Precure!',
+    'alt_name' => '名探偵プリキュア！',
+  ),
+  111 => 
+  array (
+    'mal_id' => 59078,
+    'airingAt' => 1772928000,
+    'episode' => 45,
+    'name' => 'Princess-Session Orchestra',
+    'alt_name' => 'プリンセッション・オーケストラ',
+  ),
+  112 => 
+  array (
+    'mal_id' => 61092,
+    'airingAt' => 1772929800,
+    'episode' => 48,
+    'name' => 'Himitsu no AiPri: Ring-hen',
+    'alt_name' => 'ひみつのアイプリ リング編',
+  ),
+  113 => 
+  array (
+    'mal_id' => 62340,
+    'airingAt' => 1772935200,
+    'episode' => 11,
+    'name' => 'Beyond Time\'s Gaze',
+    'alt_name' => '光阴之外',
+  ),
+  114 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1772935200,
+    'episode' => 32,
+    'name' => 'Dou Po Cangqiong: Nian Fan 4',
+    'alt_name' => '斗破苍穹 年番4',
+  ),
+  115 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1772935200,
+    'episode' => 361,
+    'name' => 'Wushen Zhuzai: Da Wei Pian',
+    'alt_name' => '武神主宰 大威篇',
+  ),
+  116 => 
+  array (
+    'mal_id' => 61663,
+    'airingAt' => 1772955000,
+    'episode' => 9,
+    'name' => 'In the Clear Moonlit Dusk',
+    'alt_name' => 'うるわしの宵の月',
+  ),
+  117 => 
+  array (
+    'mal_id' => 60371,
+    'airingAt' => 1772956800,
+    'episode' => 9,
+    'name' => 'You and I Are Polar Opposites',
+    'alt_name' => '正反対な君と僕',
+  ),
+  118 => 
+  array (
+    'mal_id' => 60223,
+    'airingAt' => 1772958600,
+    'episode' => 9,
+    'name' => 'Kaya-chan Isn\'t Scary',
+    'alt_name' => 'カヤちゃんはコワくない',
+  ),
+  119 => 
+  array (
+    'mal_id' => 44042,
+    'airingAt' => 1772960400,
+    'episode' => 356,
+    'name' => 'Holo no Graffiti',
+    'alt_name' => 'ホロのぐらふぃてぃ',
+  ),
+  120 => 
+  array (
+    'mal_id' => 2406,
+    'airingAt' => 1772962200,
+    'episode' => 2822,
+    'name' => 'Sazae-san',
+    'alt_name' => 'サザエさん',
+  ),
+  121 => 
+  array (
+    'mal_id' => 58861,
+    'airingAt' => 1772973000,
+    'episode' => 11,
+    'name' => 'Hana-Kimi',
+    'alt_name' => '花ざかりの君たちへ',
+  ),
+  122 => 
+  array (
+    'mal_id' => 60810,
+    'airingAt' => 1772974800,
+    'episode' => 11,
+    'name' => 'Kunon the Sorcerer Can See',
+    'alt_name' => '魔術師クノンは見えている',
+  ),
+  123 => 
+  array (
+    'mal_id' => 62000,
+    'airingAt' => 1772978400,
+    'episode' => 9,
+    'name' => 'The Villainess Is Adored by the Prince of the Neighbor Kingdom',
+    'alt_name' => '悪役令嬢は隣国の王太子に溺愛される',
+  ),
+  124 => 
+  array (
+    'mal_id' => 61084,
+    'airingAt' => 1772980200,
+    'episode' => 8,
+    'name' => 'Oedo Fire Slayer -The Legend of Phoenix-',
+    'alt_name' => '火喰鳥',
+  ),
+  125 => 
+  array (
+    'mal_id' => 55825,
+    'airingAt' => 1772981040,
+    'episode' => 9,
+    'name' => 'Hell’s Paradise Season 2',
+    'alt_name' => '地獄楽 第二期',
+  ),
+  126 => 
+  array (
+    'mal_id' => 60692,
+    'airingAt' => 1772982000,
+    'episode' => 10,
+    'name' => 'Noble Reincarnation: Born Blessed, So I\'ll Obtain Ultimate Power',
+    'alt_name' => '貴族転生 ～恵まれた生まれから最強の力を得る～',
+  ),
+  127 => 
+  array (
+    'mal_id' => 58788,
+    'airingAt' => 1772982000,
+    'episode' => 10,
+    'name' => 'Journal with Witch',
+    'alt_name' => '違国日記',
+  ),
+  128 => 
+  array (
+    'mal_id' => 61886,
+    'airingAt' => 1772983800,
+    'episode' => 10,
+    'name' => 'The Daily Life of a Part-time Torturer',
+    'alt_name' => '拷問バイトくんの日常',
+  ),
+  129 => 
+  array (
+    'mal_id' => 63096,
+    'airingAt' => 1772985600,
+    'episode' => 8,
+    'name' => 'Ren Arisugawa Is Actually a Girl',
+    'alt_name' => '有栖川煉ってホントは女なんだよね。',
+  ),
+  130 => 
+  array (
+    'mal_id' => 62897,
+    'airingAt' => 1772985900,
+    'episode' => 10,
+    'name' => 'Ichigo Aika: Strawberry Elegy',
+    'alt_name' => 'イチゴ哀歌～雑で生イキな妹と割り切れない兄～',
+  ),
+  131 => 
+  array (
+    'mal_id' => 63087,
+    'airingAt' => 1772990400,
+    'episode' => 9,
+    'name' => 'Theatre of Darkness: Yamishibai 16',
+    'alt_name' => '闇芝居 十六期',
+  ),
+  132 => 
+  array (
+    'mal_id' => 55809,
+    'airingAt' => 1773021600,
+    'episode' => 131,
+    'name' => 'Renegade Immortal',
+    'alt_name' => '仙逆',
+  ),
+  133 => 
+  array (
+    'mal_id' => 62987,
+    'airingAt' => 1773054000,
+    'episode' => 10,
+    'name' => 'Hokuto no Ken: Kenou-gun Zako-tachi no Banka',
+    'alt_name' => '北斗の拳 拳王軍ザコたちの挽歌',
+  ),
+  134 => 
+  array (
+    'mal_id' => 61782,
+    'airingAt' => 1773061200,
+    'episode' => 10,
+    'name' => 'Wash It All Away',
+    'alt_name' => '綺麗にしてもらえますか。',
+  ),
+  135 => 
+  array (
+    'mal_id' => 61942,
+    'airingAt' => 1773061200,
+    'episode' => 10,
+    'name' => 'My Hero Academia: Vigilantes Season 2',
+    'alt_name' => 'ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期',
+  ),
+  136 => 
+  array (
+    'mal_id' => 55772,
+    'airingAt' => 1773064800,
+    'episode' => 10,
+    'name' => 'Golden Kamuy Final Season',
+    'alt_name' => 'ゴールデンカムイ 最終章',
+  ),
+  137 => 
+  array (
+    'mal_id' => 58524,
+    'airingAt' => 1773066600,
+    'episode' => 9,
+    'name' => '\'Tis Time for "Torture," Princess Season 2',
+    'alt_name' => '姫様“拷問”の時間です 第2期',
+  ),
+  138 => 
+  array (
+    'mal_id' => 61359,
+    'airingAt' => 1773068400,
+    'episode' => 10,
+    'name' => 'You Can\'t Be In a Rom-Com with Your Childhood Friends!',
+    'alt_name' => '幼馴染とはラブコメにならない',
+  ),
+  139 => 
+  array (
+    'mal_id' => 62927,
+    'airingAt' => 1773079200,
+    'episode' => 2,
+    'name' => 'Release that Witch',
+    'alt_name' => '放开那个女巫',
+  ),
+  140 => 
+  array (
+    'mal_id' => 63200,
+    'airingAt' => 1773093600,
+    'episode' => 9,
+    'name' => 'Himitsu Kessha Taka no Tsume XX',
+    'alt_name' => '秘密結社 鷹の爪XX（ダブルエックス）',
+  ),
+  141 => 
+  array (
+    'mal_id' => 50250,
+    'airingAt' => 1773096000,
+    'episode' => 324,
+    'name' => 'Chiikawa',
+    'alt_name' => 'ちいかわ',
+  ),
+  142 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1773108000,
+    'episode' => 362,
+    'name' => 'Wushen Zhuzai: Da Wei Pian',
+    'alt_name' => '武神主宰 大威篇',
+  ),
+  143 => 
+  array (
+    'mal_id' => 61884,
+    'airingAt' => 1773147600,
+    'episode' => 11,
+    'name' => 'The Demon King\'s Daughter is Too Kind!!',
+    'alt_name' => '魔王の娘は優しすぎる!!',
+  ),
+  144 => 
+  array (
+    'mal_id' => 61211,
+    'airingAt' => 1773151200,
+    'episode' => 10,
+    'name' => 'Tune In to the Midnight Heart',
+    'alt_name' => '真夜中ハートチューン',
+  ),
+  145 => 
+  array (
+    'mal_id' => 60226,
+    'airingAt' => 1773151200,
+    'episode' => 10,
+    'name' => 'Isekai Office Worker: The Other World\'s Books Depend on the Bean Counter',
+    'alt_name' => '異世界の沙汰は社畜次第',
+  ),
+  146 => 
+  array (
+    'mal_id' => 61983,
+    'airingAt' => 1773151200,
+    'episode' => 10,
+    'name' => 'There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her',
+    'alt_name' => '勇者パーティーにかわいい子がいたので、告白してみた。',
+  ),
+  147 => 
+  array (
+    'mal_id' => 61830,
+    'airingAt' => 1773153000,
+    'episode' => 10,
+    'name' => 'Yoroi-Shinden Samurai Troopers',
+    'alt_name' => '鎧真伝サムライトルーパー',
+  ),
+  148 => 
+  array (
+    'mal_id' => 58886,
+    'airingAt' => 1773154800,
+    'episode' => 10,
+    'name' => 'The Darwin Incident',
+    'alt_name' => 'ダーウィン事変',
+  ),
+  149 => 
+  array (
+    'mal_id' => 60255,
+    'airingAt' => 1773160140,
+    'episode' => 10,
+    'name' => 'The Case Book of Arne',
+    'alt_name' => 'アルネの事件簿',
+  ),
+  150 => 
+  array (
+    'mal_id' => 62662,
+    'airingAt' => 1773180000,
+    'episode' => 22,
+    'name' => 'Dokodemo Makibao: World Tour',
+    'alt_name' => 'どこでもマキバオー ～ワールドツアー～',
+  ),
+  151 => 
+  array (
+    'mal_id' => 61765,
+    'airingAt' => 1773180360,
+    'episode' => 37,
+    'name' => 'Chibi Godzilla Raids Again Season 3',
+    'alt_name' => 'ちびゴジラの逆襲(第3期)',
+  ),
+  152 => 
+  array (
+    'mal_id' => 63151,
+    'airingAt' => 1773183600,
+    'episode' => 10,
+    'name' => 'mofusand',
+    'alt_name' => 'mofusand ',
+  ),
+  153 => 
+  array (
+    'mal_id' => 63216,
+    'airingAt' => 1773190440,
+    'episode' => 8,
+    'name' => 'GelPiyo',
+    'alt_name' => 'ゲルぴよ',
+  ),
+  154 => 
+  array (
+    'mal_id' => 51289,
+    'airingAt' => 1773194400,
+    'episode' => 152,
+    'name' => 'Shrouding the Heavens',
+    'alt_name' => '遮天',
+  ),
+  155 => 
+  array (
+    'mal_id' => 61254,
+    'airingAt' => 1773226800,
+    'episode' => 22,
+    'name' => 'Cat Tales',
+    'alt_name' => 'うごく！ねこむかしばなし',
+  ),
+  156 => 
+  array (
+    'mal_id' => 61637,
+    'airingAt' => 1773232200,
+    'episode' => 10,
+    'name' => 'An Adventurer’s Daily Grind at Age 29',
+    'alt_name' => '29歳独身中堅冒険者の日常',
+  ),
+  157 => 
+  array (
+    'mal_id' => 61549,
+    'airingAt' => 1773234000,
+    'episode' => 10,
+    'name' => 'Easygoing Territory Defense by the Optimistic Lord',
+    'alt_name' => 'お気楽領主の楽しい領地防衛',
+  ),
+  158 => 
+  array (
+    'mal_id' => 60058,
+    'airingAt' => 1773237600,
+    'episode' => 9,
+    'name' => '【OSHI NO KO】Season 3',
+    'alt_name' => '【推しの子】第3期',
+  ),
+  159 => 
+  array (
+    'mal_id' => 59711,
+    'airingAt' => 1773239400,
+    'episode' => 10,
+    'name' => 'SHIBOYUGI: Playing Death Games to Put Food on the Table',
+    'alt_name' => '死亡遊戯で飯を食う。',
+  ),
+  160 => 
+  array (
+    'mal_id' => 61608,
+    'airingAt' => 1773240360,
+    'episode' => 10,
+    'name' => 'Hell Teacher: Jigoku Sensei Nube (2025) Part 2',
+    'alt_name' => '地獄先生ぬ～べ～ (2025) 第2クール',
+  ),
+  161 => 
+  array (
+    'mal_id' => 61128,
+    'airingAt' => 1773241200,
+    'episode' => 11,
+    'name' => 'Jack-of-All-Trades, Party of None',
+    'alt_name' => '勇者パーティを追い出された器用貧乏',
+  ),
+  162 => 
+  array (
+    'mal_id' => 60071,
+    'airingAt' => 1773241200,
+    'episode' => 10,
+    'name' => 'A Gentle Noble\'s Vacation Recommendation',
+    'alt_name' => '穏やか貴族の休暇のすすめ。',
+  ),
+  163 => 
+  array (
+    'mal_id' => 59047,
+    'airingAt' => 1773241200,
+    'episode' => 11,
+    'name' => 'Tamon\'s B-Side',
+    'alt_name' => '多聞くん今どっち！？',
+  ),
+  164 => 
+  array (
+    'mal_id' => 63275,
+    'airingAt' => 1773266400,
+    'episode' => 10,
+    'name' => 'Black Jack Yanen',
+    'alt_name' => 'ブラックジャックやねん',
+  ),
+  165 => 
+  array (
+    'mal_id' => 62676,
+    'airingAt' => 1773307800,
+    'episode' => 22,
+    'name' => 'PetitCure: Precure Fairies Season 2',
+    'alt_name' => 'ぷちきゅあ～Precure Fairies～ シーズン２',
+  ),
+  166 => 
+  array (
+    'mal_id' => 62005,
+    'airingAt' => 1773313200,
+    'episode' => 24,
+    'name' => 'Koala\'s Diary',
+    'alt_name' => 'コアラ絵日記',
+  ),
+  167 => 
+  array (
+    'mal_id' => 60591,
+    'airingAt' => 1773313200,
+    'episode' => 20,
+    'name' => 'Reborn as a Cat',
+    'alt_name' => '为喵人生',
+  ),
+  168 => 
+  array (
+    'mal_id' => 61107,
+    'airingAt' => 1773320400,
+    'episode' => 23,
+    'name' => 'GANSO! BanG Dream Chan',
+    'alt_name' => '元祖！バンドリちゃん',
+  ),
+  169 => 
+  array (
+    'mal_id' => 56009,
+    'airingAt' => 1773322200,
+    'episode' => 10,
+    'name' => 'Sentenced to Be a Hero',
+    'alt_name' => '勇者刑に処す　懲罰勇者9004隊刑務記録',
+  ),
+  170 => 
+  array (
+    'mal_id' => 58505,
+    'airingAt' => 1773324000,
+    'episode' => 10,
+    'name' => 'Chained Soldier Season 2',
+    'alt_name' => '魔都精兵のスレイブ2',
+  ),
+  171 => 
+  array (
+    'mal_id' => 60395,
+    'airingAt' => 1773325800,
+    'episode' => 10,
+    'name' => 'The Invisible Man and His Soon-to-Be Wife',
+    'alt_name' => '透明男と人間女～そのうち夫婦になるふたり～',
+  ),
+  172 => 
+  array (
+    'mal_id' => 60602,
+    'airingAt' => 1773325800,
+    'episode' => 11,
+    'name' => 'MF GHOST Season 3',
+    'alt_name' => 'MFゴースト 3rd Season',
+  ),
+  173 => 
+  array (
+    'mal_id' => 60151,
+    'airingAt' => 1773327360,
+    'episode' => 10,
+    'name' => 'The Holy Grail of Eris',
+    'alt_name' => 'エリスの聖杯',
+  ),
+  174 => 
+  array (
+    'mal_id' => 62193,
+    'airingAt' => 1773327600,
+    'episode' => 1,
+    'name' => 'Paris ni Saku Étoile',
+    'alt_name' => 'パリに咲くエトワール',
+  ),
+  175 => 
+  array (
+    'mal_id' => 63033,
+    'airingAt' => 1773327600,
+    'episode' => 1,
+    'name' => 'Himitsu no AiPri: Mankai Buzzrium Live!',
+    'alt_name' => 'ひみつのアイプリ まんかいバズリウムライブ！',
+  ),
+  176 => 
+  array (
+    'mal_id' => 57658,
+    'airingAt' => 1773329160,
+    'episode' => 10,
+    'name' => 'JUJUTSU KAISEN Season 3: The Culling Game Part 1',
+    'alt_name' => '呪術廻戦 死滅回游 前編',
+  ),
+  177 => 
+  array (
+    'mal_id' => 61587,
+    'airingAt' => 1773329400,
+    'episode' => 10,
+    'name' => 'ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!',
+    'alt_name' => '「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい',
+  ),
+  178 => 
+  array (
+    'mal_id' => 61325,
+    'airingAt' => 1773332880,
+    'episode' => 10,
+    'name' => 'Anyway, I\'m Falling in Love with You. Season 2',
+    'alt_name' => 'どうせ、恋してしまうんだ。Season 2',
+  ),
+  179 => 
+  array (
+    'mal_id' => 60947,
+    'airingAt' => 1773334680,
+    'episode' => 48,
+    'name' => 'Nmeneko',
+    'alt_name' => 'ンめねこ',
+  ),
+  180 => 
+  array (
+    'mal_id' => 60509,
+    'airingAt' => 1773334680,
+    'episode' => 11,
+    'name' => 'Champignon Witch',
+    'alt_name' => 'シャンピニオンの魔女',
+  ),
+  181 => 
+  array (
+    'mal_id' => 8336,
+    'airingAt' => 1773353400,
+    'episode' => 647,
+    'name' => 'Hanakappa',
+    'alt_name' => 'はなかっぱ',
+  ),
+  182 => 
+  array (
+    'mal_id' => 50250,
+    'airingAt' => 1773355200,
+    'episode' => 325,
+    'name' => 'Chiikawa',
+    'alt_name' => 'ちいかわ',
+  ),
+  183 => 
+  array (
+    'mal_id' => 56566,
+    'airingAt' => 1773393900,
+    'episode' => 120,
+    'name' => 'BEYBLADE X',
+    'alt_name' => 'BEYBLADE X',
+  ),
+  184 => 
+  array (
+    'mal_id' => 53876,
+    'airingAt' => 1773395700,
+    'episode' => 131,
+    'name' => 'Pokémon Horizons: The Series',
+    'alt_name' => 'ポケットモンスター (2023)',
+  ),
+  185 => 
+  array (
+    'mal_id' => 62378,
+    'airingAt' => 1773408120,
+    'episode' => 22,
+    'name' => 'GANGLION',
+    'alt_name' => 'ガングリオン',
+  ),
+  186 => 
+  array (
+    'mal_id' => 59978,
+    'airingAt' => 1773410400,
+    'episode' => 8,
+    'name' => 'Frieren: Beyond Journey’s End Season 2',
+    'alt_name' => '葬送のフリーレン 第2期',
+  ),
+  187 => 
+  array (
+    'mal_id' => 62804,
+    'airingAt' => 1773412200,
+    'episode' => 10,
+    'name' => 'High School! Kimengumi (2026)',
+    'alt_name' => 'ハイスクール！奇面組 (2026)',
+  ),
+  188 => 
+  array (
+    'mal_id' => 59853,
+    'airingAt' => 1773414000,
+    'episode' => 10,
+    'name' => 'DARK MOON: THE BLOOD ALTAR',
+    'alt_name' => 'DARK MOON　-黒の月: 月の祭壇-',
+  ),
+  189 => 
+  array (
+    'mal_id' => 60460,
+    'airingAt' => 1773419700,
+    'episode' => 10,
+    'name' => 'HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing',
+    'alt_name' => 'ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～',
+  ),
+  190 => 
+  array (
+    'mal_id' => 59229,
+    'airingAt' => 1773420780,
+    'episode' => 10,
+    'name' => 'Fire Force Season 3 Part 2',
+    'alt_name' => '炎炎ノ消防隊 参ノ章 第2クール',
+  ),
+  191 => 
+  array (
+    'mal_id' => 59393,
+    'airingAt' => 1773421200,
+    'episode' => 1,
+    'name' => 'Rooster Fighter',
+    'alt_name' => 'ニワトリ・ファイター',
+  ),
+  192 => 
+  array (
+    'mal_id' => 63106,
+    'airingAt' => 1773432000,
+    'episode' => 10,
+    'name' => 'Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu',
+    'alt_name' => 'ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～',
+  ),
+  193 => 
+  array (
+    'mal_id' => 62231,
+    'airingAt' => 1773435600,
+    'episode' => 24,
+    'name' => 'JOCHUM Season 2',
+    'alt_name' => 'ジェオチャム シーズン2 ',
+  ),
+  194 => 
+  array (
+    'mal_id' => 60070,
+    'airingAt' => 1773439200,
+    'episode' => 49,
+    'name' => 'Kaijuu Sekai Seifuku',
+    'alt_name' => 'かいじゅうせかいせいふく',
+  ),
+  195 => 
+  array (
+    'mal_id' => 50418,
+    'airingAt' => 1773441000,
+    'episode' => 207,
+    'name' => 'Ninjala the Animation',
+    'alt_name' => 'ニンジャラ',
+  ),
+  196 => 
+  array (
+    'mal_id' => 62649,
+    'airingAt' => 1773442800,
+    'episode' => 8,
+    'name' => 'Cardfight!! Vanguard: Divinez Genma Seisen-hen',
+    'alt_name' => 'カードファイト!! ヴァンガード Divinez 幻真星戦編',
+  ),
+  197 => 
+  array (
+    'mal_id' => 51836,
+    'airingAt' => 1773453600,
+    'episode' => 144,
+    'name' => 'Soul Land 2: The Peerless Tang Clan',
+    'alt_name' => '斗罗大陆2绝世唐门',
+  ),
+  198 => 
+  array (
+    'mal_id' => 966,
+    'airingAt' => 1773473400,
+    'episode' => 1326,
+    'name' => 'Shin Chan',
+    'alt_name' => 'クレヨンしんちゃん',
+  ),
+  199 => 
+  array (
+    'mal_id' => 8687,
+    'airingAt' => 1773475200,
+    'episode' => 906,
+    'name' => 'Doraemon (2005)',
+    'alt_name' => 'ドラえもん (2005)',
+  ),
+  200 => 
+  array (
+    'mal_id' => 61333,
+    'airingAt' => 1773477000,
+    'episode' => 12,
+    'name' => 'Blue Miburo Season 2',
+    'alt_name' => '青のミブロ 芹沢暗殺編',
+  ),
+  201 => 
+  array (
+    'mal_id' => 235,
+    'airingAt' => 1773478800,
+    'episode' => 1193,
+    'name' => 'Case Closed',
+    'alt_name' => '名探偵コナン',
+  ),
+  202 => 
+  array (
+    'mal_id' => 60983,
+    'airingAt' => 1773480300,
+    'episode' => 19,
+    'name' => 'Kagaku×Bouken Survival! 2nd Season',
+    'alt_name' => '科学×冒険サバイバル！ 第2シリーズ',
+  ),
+  203 => 
+  array (
+    'mal_id' => 61207,
+    'airingAt' => 1773491400,
+    'episode' => 10,
+    'name' => 'Reincarnated as a Dragon Hatchling',
+    'alt_name' => '転生したらドラゴンの卵だった',
+  ),
+  204 => 
+  array (
+    'mal_id' => 62864,
+    'airingAt' => 1773491400,
+    'episode' => 10,
+    'name' => 'Omae wa Mada Gunma wo Shiranai: Reiwa-ban',
+    'alt_name' => 'お前はまだグンマを知らない～令和版～ ',
+  ),
+  205 => 
+  array (
+    'mal_id' => 61969,
+    'airingAt' => 1773493200,
+    'episode' => 11,
+    'name' => 'I\'ll Live a Long Life to Dote on My Favorite Stepbrother!',
+    'alt_name' => '最推しの義兄を愛でるため、長生きします！',
+  ),
+  206 => 
+  array (
+    'mal_id' => 54863,
+    'airingAt' => 1773496800,
+    'episode' => 10,
+    'name' => 'TRIGUN STARGAZE',
+    'alt_name' => 'TRIGUN STARGAZE',
+  ),
+  207 => 
+  array (
+    'mal_id' => 61196,
+    'airingAt' => 1773498600,
+    'episode' => 10,
+    'name' => 'Dead Account',
+    'alt_name' => 'デッドアカウント',
+  ),
+  208 => 
+  array (
+    'mal_id' => 55830,
+    'airingAt' => 1773498600,
+    'episode' => 11,
+    'name' => 'Fate/strange Fake',
+    'alt_name' => 'Fate/strange Fake',
+  ),
+  209 => 
+  array (
+    'mal_id' => 54703,
+    'airingAt' => 1773499500,
+    'episode' => 19,
+    'name' => 'To Your Eternity Season 3',
+    'alt_name' => '不滅のあなたへ Season 3',
+  ),
+  210 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1773500400,
+    'episode' => 22,
+    'name' => 'Mu Shen Ji 3',
+    'alt_name' => '牧神记3',
+  ),
+  211 => 
+  array (
+    'mal_id' => 62432,
+    'airingAt' => 1773500400,
+    'episode' => 10,
+    'name' => 'A Misanthrope Teaches a Class for Demi-Humans',
+    'alt_name' => '人外教室の人間嫌い教師',
+  ),
+  212 => 
+  array (
+    'mal_id' => 60427,
+    'airingAt' => 1773500400,
+    'episode' => 21,
+    'name' => 'GNOSIA',
+    'alt_name' => 'グノーシア',
+  ),
+  213 => 
+  array (
+    'mal_id' => 61159,
+    'airingAt' => 1773502200,
+    'episode' => 23,
+    'name' => 'Tojima Wants to Be a Kamen Rider',
+    'alt_name' => '東島丹三郎は仮面ライダーになりたい',
+  ),
+  214 => 
+  array (
+    'mal_id' => 61217,
+    'airingAt' => 1773503760,
+    'episode' => 10,
+    'name' => 'Scum of the Brave',
+    'alt_name' => '勇者のクズ',
+  ),
+  215 => 
+  array (
+    'mal_id' => 61335,
+    'airingAt' => 1773505800,
+    'episode' => 8,
+    'name' => 'Medalist Season 2',
+    'alt_name' => 'メダリスト 第2期',
+  ),
+  216 => 
+  array (
+    'mal_id' => 60596,
+    'airingAt' => 1773526560,
+    'episode' => 49,
+    'name' => 'Sai-Kyo-Oh! Zukan: The Ultimate Tournament',
+    'alt_name' => '最強王図鑑 ～The Ultimate Tournament～',
+  ),
+  217 => 
+  array (
+    'mal_id' => 60534,
+    'airingAt' => 1773530880,
+    'episode' => 50,
+    'name' => 'Koupen-chan',
+    'alt_name' => 'コウペンちゃん',
+  ),
+  218 => 
+  array (
+    'mal_id' => 62083,
+    'airingAt' => 1773531000,
+    'episode' => 9,
+    'name' => 'TOMICA & TOM',
+    'alt_name' => 'トミカとトム',
+  ),
+  219 => 
+  array (
+    'mal_id' => 63042,
+    'airingAt' => 1773531000,
+    'episode' => 7,
+    'name' => 'Star Detective Precure!',
+    'alt_name' => '名探偵プリキュア！',
+  ),
+  220 => 
+  array (
+    'mal_id' => 59078,
+    'airingAt' => 1773532800,
+    'episode' => 46,
+    'name' => 'Princess-Session Orchestra',
+    'alt_name' => 'プリンセッション・オーケストラ',
+  ),
+  221 => 
+  array (
+    'mal_id' => 61269,
+    'airingAt' => 1773532800,
+    'episode' => 22,
+    'name' => 'DIGIMON BEATBREAK',
+    'alt_name' => 'DIGIMON BEATBREAK',
+  ),
+  222 => 
+  array (
+    'mal_id' => 61092,
+    'airingAt' => 1773534600,
+    'episode' => 49,
+    'name' => 'Himitsu no AiPri: Ring-hen',
+    'alt_name' => 'ひみつのアイプリ リング編',
+  ),
+  223 => 
+  array (
+    'mal_id' => 62126,
+    'airingAt' => 1773534600,
+    'episode' => 22,
+    'name' => 'SI-VIS: The Sound of Heroes',
+    'alt_name' => 'SI-VIS: The Sound of Heroes',
+  ),
+  224 => 
+  array (
+    'mal_id' => 62340,
+    'airingAt' => 1773540000,
+    'episode' => 12,
+    'name' => 'Beyond Time\'s Gaze',
+    'alt_name' => '光阴之外',
+  ),
+  225 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1773540000,
+    'episode' => 33,
+    'name' => 'Dou Po Cangqiong: Nian Fan 4',
+    'alt_name' => '斗破苍穹 年番4',
+  ),
+  226 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1773540000,
+    'episode' => 363,
+    'name' => 'Wushen Zhuzai: Da Wei Pian',
+    'alt_name' => '武神主宰 大威篇',
+  ),
+  227 => 
+  array (
+    'mal_id' => 61663,
+    'airingAt' => 1773559800,
+    'episode' => 10,
+    'name' => 'In the Clear Moonlit Dusk',
+    'alt_name' => 'うるわしの宵の月',
+  ),
+  228 => 
+  array (
+    'mal_id' => 60371,
+    'airingAt' => 1773561600,
+    'episode' => 10,
+    'name' => 'You and I Are Polar Opposites',
+    'alt_name' => '正反対な君と僕',
+  ),
+  229 => 
+  array (
+    'mal_id' => 60223,
+    'airingAt' => 1773563400,
+    'episode' => 10,
+    'name' => 'Kaya-chan Isn\'t Scary',
+    'alt_name' => 'カヤちゃんはコワくない',
+  ),
+  230 => 
+  array (
+    'mal_id' => 44042,
+    'airingAt' => 1773565200,
+    'episode' => 357,
+    'name' => 'Holo no Graffiti',
+    'alt_name' => 'ホロのぐらふぃてぃ',
+  ),
+  231 => 
+  array (
+    'mal_id' => 2406,
+    'airingAt' => 1773567000,
+    'episode' => 2823,
+    'name' => 'Sazae-san',
+    'alt_name' => 'サザエさん',
+  ),
+  232 => 
+  array (
+    'mal_id' => 58861,
+    'airingAt' => 1773577800,
+    'episode' => 12,
+    'name' => 'Hana-Kimi',
+    'alt_name' => '花ざかりの君たちへ',
+  ),
+  233 => 
+  array (
+    'mal_id' => 60810,
+    'airingAt' => 1773579600,
+    'episode' => 12,
+    'name' => 'Kunon the Sorcerer Can See',
+    'alt_name' => '魔術師クノンは見えている',
+  ),
+  234 => 
+  array (
+    'mal_id' => 62000,
+    'airingAt' => 1773583200,
+    'episode' => 10,
+    'name' => 'The Villainess Is Adored by the Prince of the Neighbor Kingdom',
+    'alt_name' => '悪役令嬢は隣国の王太子に溺愛される',
+  ),
+  235 => 
+  array (
+    'mal_id' => 61084,
+    'airingAt' => 1773585000,
+    'episode' => 9,
+    'name' => 'Oedo Fire Slayer -The Legend of Phoenix-',
+    'alt_name' => '火喰鳥',
+  ),
+  236 => 
+  array (
+    'mal_id' => 55825,
+    'airingAt' => 1773585840,
+    'episode' => 10,
+    'name' => 'Hell’s Paradise Season 2',
+    'alt_name' => '地獄楽 第二期',
+  ),
+  237 => 
+  array (
+    'mal_id' => 60692,
+    'airingAt' => 1773586800,
+    'episode' => 11,
+    'name' => 'Noble Reincarnation: Born Blessed, So I\'ll Obtain Ultimate Power',
+    'alt_name' => '貴族転生 ～恵まれた生まれから最強の力を得る～',
+  ),
+  238 => 
+  array (
+    'mal_id' => 58788,
+    'airingAt' => 1773586800,
+    'episode' => 11,
+    'name' => 'Journal with Witch',
+    'alt_name' => '違国日記',
+  ),
+  239 => 
+  array (
+    'mal_id' => 61886,
+    'airingAt' => 1773588600,
+    'episode' => 11,
+    'name' => 'The Daily Life of a Part-time Torturer',
+    'alt_name' => '拷問バイトくんの日常',
+  ),
+  240 => 
+  array (
+    'mal_id' => 62897,
+    'airingAt' => 1773590700,
+    'episode' => 11,
+    'name' => 'Ichigo Aika: Strawberry Elegy',
+    'alt_name' => 'イチゴ哀歌～雑で生イキな妹と割り切れない兄～',
+  ),
+  241 => 
+  array (
+    'mal_id' => 63087,
+    'airingAt' => 1773595200,
+    'episode' => 10,
+    'name' => 'Theatre of Darkness: Yamishibai 16',
+    'alt_name' => '闇芝居 十六期',
+  ),
+  242 => 
+  array (
+    'mal_id' => 62987,
+    'airingAt' => 1773658800,
+    'episode' => 11,
+    'name' => 'Hokuto no Ken: Kenou-gun Zako-tachi no Banka',
+    'alt_name' => '北斗の拳 拳王軍ザコたちの挽歌',
+  ),
+  243 => 
+  array (
+    'mal_id' => 61782,
+    'airingAt' => 1773666000,
+    'episode' => 11,
+    'name' => 'Wash It All Away',
+    'alt_name' => '綺麗にしてもらえますか。',
+  ),
+  244 => 
+  array (
+    'mal_id' => 61942,
+    'airingAt' => 1773666000,
+    'episode' => 11,
+    'name' => 'My Hero Academia: Vigilantes Season 2',
+    'alt_name' => 'ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期',
+  ),
+  245 => 
+  array (
+    'mal_id' => 55772,
+    'airingAt' => 1773669600,
+    'episode' => 11,
+    'name' => 'Golden Kamuy Final Season',
+    'alt_name' => 'ゴールデンカムイ 最終章',
+  ),
+  246 => 
+  array (
+    'mal_id' => 58524,
+    'airingAt' => 1773671400,
+    'episode' => 10,
+    'name' => '\'Tis Time for "Torture," Princess Season 2',
+    'alt_name' => '姫様“拷問”の時間です 第2期',
+  ),
+  247 => 
+  array (
+    'mal_id' => 61359,
+    'airingAt' => 1773673200,
+    'episode' => 11,
+    'name' => 'You Can\'t Be In a Rom-Com with Your Childhood Friends!',
+    'alt_name' => '幼馴染とはラブコメにならない',
+  ),
+  248 => 
+  array (
+    'mal_id' => 62927,
+    'airingAt' => 1773684000,
+    'episode' => 3,
+    'name' => 'Release that Witch',
+    'alt_name' => '放开那个女巫',
+  ),
+  249 => 
+  array (
+    'mal_id' => 63200,
+    'airingAt' => 1773698400,
+    'episode' => 10,
+    'name' => 'Himitsu Kessha Taka no Tsume XX',
+    'alt_name' => '秘密結社 鷹の爪XX（ダブルエックス）',
+  ),
+  250 => 
+  array (
+    'mal_id' => 50250,
+    'airingAt' => 1773700800,
+    'episode' => 326,
+    'name' => 'Chiikawa',
+    'alt_name' => 'ちいかわ',
+  ),
+  251 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1773712800,
+    'episode' => 364,
+    'name' => 'Wushen Zhuzai: Da Wei Pian',
+    'alt_name' => '武神主宰 大威篇',
+  ),
+  252 => 
+  array (
+    'mal_id' => 61884,
+    'airingAt' => 1773752400,
+    'episode' => 12,
+    'name' => 'The Demon King\'s Daughter is Too Kind!!',
+    'alt_name' => '魔王の娘は優しすぎる!!',
+  ),
+  253 => 
+  array (
+    'mal_id' => 61211,
+    'airingAt' => 1773756000,
+    'episode' => 11,
+    'name' => 'Tune In to the Midnight Heart',
+    'alt_name' => '真夜中ハートチューン',
+  ),
+  254 => 
+  array (
+    'mal_id' => 60226,
+    'airingAt' => 1773756000,
+    'episode' => 11,
+    'name' => 'Isekai Office Worker: The Other World\'s Books Depend on the Bean Counter',
+    'alt_name' => '異世界の沙汰は社畜次第',
+  ),
+  255 => 
+  array (
+    'mal_id' => 61983,
+    'airingAt' => 1773756000,
+    'episode' => 11,
+    'name' => 'There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her',
+    'alt_name' => '勇者パーティーにかわいい子がいたので、告白してみた。',
+  ),
+  256 => 
+  array (
+    'mal_id' => 61830,
+    'airingAt' => 1773757800,
+    'episode' => 11,
+    'name' => 'Yoroi-Shinden Samurai Troopers',
+    'alt_name' => '鎧真伝サムライトルーパー',
+  ),
+  257 => 
+  array (
+    'mal_id' => 58886,
+    'airingAt' => 1773759600,
+    'episode' => 11,
+    'name' => 'The Darwin Incident',
+    'alt_name' => 'ダーウィン事変',
+  ),
+  258 => 
+  array (
+    'mal_id' => 60255,
+    'airingAt' => 1773764940,
+    'episode' => 11,
+    'name' => 'The Case Book of Arne',
+    'alt_name' => 'アルネの事件簿',
+  ),
+  259 => 
+  array (
+    'mal_id' => 62662,
+    'airingAt' => 1773784800,
+    'episode' => 23,
+    'name' => 'Dokodemo Makibao: World Tour',
+    'alt_name' => 'どこでもマキバオー ～ワールドツアー～',
+  ),
+  260 => 
+  array (
+    'mal_id' => 61765,
+    'airingAt' => 1773785160,
+    'episode' => 38,
+    'name' => 'Chibi Godzilla Raids Again Season 3',
+    'alt_name' => 'ちびゴジラの逆襲(第3期)',
+  ),
+  261 => 
+  array (
+    'mal_id' => 63151,
+    'airingAt' => 1773788400,
+    'episode' => 11,
+    'name' => 'mofusand',
+    'alt_name' => 'mofusand ',
+  ),
+  262 => 
+  array (
+    'mal_id' => 63216,
+    'airingAt' => 1773795240,
+    'episode' => 9,
+    'name' => 'GelPiyo',
+    'alt_name' => 'ゲルぴよ',
+  ),
+  263 => 
+  array (
+    'mal_id' => 51289,
+    'airingAt' => 1773799200,
+    'episode' => 153,
+    'name' => 'Shrouding the Heavens',
+    'alt_name' => '遮天',
+  ),
+  264 => 
+  array (
+    'mal_id' => 61254,
+    'airingAt' => 1773831600,
+    'episode' => 23,
+    'name' => 'Cat Tales',
+    'alt_name' => 'うごく！ねこむかしばなし',
+  ),
+  265 => 
+  array (
+    'mal_id' => 61637,
+    'airingAt' => 1773837000,
+    'episode' => 11,
+    'name' => 'An Adventurer’s Daily Grind at Age 29',
+    'alt_name' => '29歳独身中堅冒険者の日常',
+  ),
+  266 => 
+  array (
+    'mal_id' => 61549,
+    'airingAt' => 1773838800,
+    'episode' => 11,
+    'name' => 'Easygoing Territory Defense by the Optimistic Lord',
+    'alt_name' => 'お気楽領主の楽しい領地防衛',
+  ),
+  267 => 
+  array (
+    'mal_id' => 60058,
+    'airingAt' => 1773842400,
+    'episode' => 10,
+    'name' => '【OSHI NO KO】Season 3',
+    'alt_name' => '【推しの子】第3期',
+  ),
+  268 => 
+  array (
+    'mal_id' => 59711,
+    'airingAt' => 1773844200,
+    'episode' => 11,
+    'name' => 'SHIBOYUGI: Playing Death Games to Put Food on the Table',
+    'alt_name' => '死亡遊戯で飯を食う。',
+  ),
+  269 => 
+  array (
+    'mal_id' => 61608,
+    'airingAt' => 1773845160,
+    'episode' => 11,
+    'name' => 'Hell Teacher: Jigoku Sensei Nube (2025) Part 2',
+    'alt_name' => '地獄先生ぬ～べ～ (2025) 第2クール',
+  ),
+  270 => 
+  array (
+    'mal_id' => 61128,
+    'airingAt' => 1773846000,
+    'episode' => 12,
+    'name' => 'Jack-of-All-Trades, Party of None',
+    'alt_name' => '勇者パーティを追い出された器用貧乏',
+  ),
+  271 => 
+  array (
+    'mal_id' => 60071,
+    'airingAt' => 1773846000,
+    'episode' => 11,
+    'name' => 'A Gentle Noble\'s Vacation Recommendation',
+    'alt_name' => '穏やか貴族の休暇のすすめ。',
+  ),
+  272 => 
+  array (
+    'mal_id' => 59047,
+    'airingAt' => 1773846000,
+    'episode' => 12,
+    'name' => 'Tamon\'s B-Side',
+    'alt_name' => '多聞くん今どっち！？',
+  ),
+  273 => 
+  array (
+    'mal_id' => 63275,
+    'airingAt' => 1773871200,
+    'episode' => 11,
+    'name' => 'Black Jack Yanen',
+    'alt_name' => 'ブラックジャックやねん',
+  ),
+  274 => 
+  array (
+    'mal_id' => 61469,
+    'airingAt' => 1773903600,
+    'episode' => 1,
+    'name' => 'STEEL BALL RUN JoJo\'s Bizarre Adventure',
+    'alt_name' => 'ジョジョの奇妙な冒険 スティール・ボール・ラン',
+  ),
+  275 => 
+  array (
+    'mal_id' => 62676,
+    'airingAt' => 1773912600,
+    'episode' => 23,
+    'name' => 'PetitCure: Precure Fairies Season 2',
+    'alt_name' => 'ぷちきゅあ～Precure Fairies～ シーズン２',
+  ),
+  276 => 
+  array (
+    'mal_id' => 60591,
+    'airingAt' => 1773918000,
+    'episode' => 21,
+    'name' => 'Reborn as a Cat',
+    'alt_name' => '为喵人生',
+  ),
+  277 => 
+  array (
+    'mal_id' => 61107,
+    'airingAt' => 1773925200,
+    'episode' => 24,
+    'name' => 'GANSO! BanG Dream Chan',
+    'alt_name' => '元祖！バンドリちゃん',
+  ),
+  278 => 
+  array (
+    'mal_id' => 56009,
+    'airingAt' => 1773927000,
+    'episode' => 11,
+    'name' => 'Sentenced to Be a Hero',
+    'alt_name' => '勇者刑に処す　懲罰勇者9004隊刑務記録',
+  ),
+  279 => 
+  array (
+    'mal_id' => 58505,
+    'airingAt' => 1773928800,
+    'episode' => 11,
+    'name' => 'Chained Soldier Season 2',
+    'alt_name' => '魔都精兵のスレイブ2',
+  ),
+  280 => 
+  array (
+    'mal_id' => 60395,
+    'airingAt' => 1773930600,
+    'episode' => 11,
+    'name' => 'The Invisible Man and His Soon-to-Be Wife',
+    'alt_name' => '透明男と人間女～そのうち夫婦になるふたり～',
+  ),
+  281 => 
+  array (
+    'mal_id' => 60602,
+    'airingAt' => 1773930600,
+    'episode' => 12,
+    'name' => 'MF GHOST Season 3',
+    'alt_name' => 'MFゴースト 3rd Season',
+  ),
+  282 => 
+  array (
+    'mal_id' => 60151,
+    'airingAt' => 1773932160,
+    'episode' => 11,
+    'name' => 'The Holy Grail of Eris',
+    'alt_name' => 'エリスの聖杯',
+  ),
+  283 => 
+  array (
+    'mal_id' => 62421,
+    'airingAt' => 1773932400,
+    'episode' => 1,
+    'name' => 'Ansatsu Kyoushitsu: Minna no Jikan',
+    'alt_name' => '暗殺教室 みんなの時間',
+  ),
+  284 => 
+  array (
+    'mal_id' => 62690,
+    'airingAt' => 1773932400,
+    'episode' => 1,
+    'name' => 'Oshirimae Man: Fukkatsu no Oshirimae Teikoku',
+    'alt_name' => 'おしり前マン～復活のおしり前帝国～ ',
+  ),
+  285 => 
+  array (
+    'mal_id' => 63159,
+    'airingAt' => 1773932400,
+    'episode' => 1,
+    'name' => 'Anal Mania Otaku to Ananie Daisuki na Ojou-sama: Kiseki no Matching',
+    'alt_name' => 'アナルマニアオタクとアナニー大好きなお嬢様～奇跡のマッチング～',
+  ),
+  286 => 
+  array (
+    'mal_id' => 57658,
+    'airingAt' => 1773933960,
+    'episode' => 11,
+    'name' => 'JUJUTSU KAISEN Season 3: The Culling Game Part 1',
+    'alt_name' => '呪術廻戦 死滅回游 前編',
+  ),
+  287 => 
+  array (
+    'mal_id' => 61587,
+    'airingAt' => 1773934200,
+    'episode' => 11,
+    'name' => 'ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!',
+    'alt_name' => '「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい',
+  ),
+  288 => 
+  array (
+    'mal_id' => 61325,
+    'airingAt' => 1773937680,
+    'episode' => 11,
+    'name' => 'Anyway, I\'m Falling in Love with You. Season 2',
+    'alt_name' => 'どうせ、恋してしまうんだ。Season 2',
+  ),
+  289 => 
+  array (
+    'mal_id' => 60947,
+    'airingAt' => 1773939480,
+    'episode' => 49,
+    'name' => 'Nmeneko',
+    'alt_name' => 'ンめねこ',
+  ),
+  290 => 
+  array (
+    'mal_id' => 60509,
+    'airingAt' => 1773939480,
+    'episode' => 12,
+    'name' => 'Champignon Witch',
+    'alt_name' => 'シャンピニオンの魔女',
+  ),
+  291 => 
+  array (
+    'mal_id' => 63013,
+    'airingAt' => 1773955800,
+    'episode' => 5,
+    'name' => 'Atashin\'chi NEXT 2',
+    'alt_name' => 'あたしンちNEXT 第2期',
+  ),
+  292 => 
+  array (
+    'mal_id' => 8336,
+    'airingAt' => 1773958200,
+    'episode' => 648,
+    'name' => 'Hanakappa',
+    'alt_name' => 'はなかっぱ',
+  ),
+  293 => 
+  array (
+    'mal_id' => 50250,
+    'airingAt' => 1773960000,
+    'episode' => 327,
+    'name' => 'Chiikawa',
+    'alt_name' => 'ちいかわ',
+  ),
+  294 => 
+  array (
+    'mal_id' => 56566,
+    'airingAt' => 1773998700,
+    'episode' => 121,
+    'name' => 'BEYBLADE X',
+    'alt_name' => 'BEYBLADE X',
+  ),
+  295 => 
+  array (
+    'mal_id' => 53876,
+    'airingAt' => 1774000500,
+    'episode' => 132,
+    'name' => 'Pokémon Horizons: The Series',
+    'alt_name' => 'ポケットモンスター (2023)',
+  ),
+  296 => 
+  array (
+    'mal_id' => 62378,
+    'airingAt' => 1774012920,
+    'episode' => 23,
+    'name' => 'GANGLION',
+    'alt_name' => 'ガングリオン',
+  ),
+  297 => 
+  array (
+    'mal_id' => 59978,
+    'airingAt' => 1774015200,
+    'episode' => 9,
+    'name' => 'Frieren: Beyond Journey’s End Season 2',
+    'alt_name' => '葬送のフリーレン 第2期',
+  ),
+  298 => 
+  array (
+    'mal_id' => 62804,
+    'airingAt' => 1774017000,
+    'episode' => 11,
+    'name' => 'High School! Kimengumi (2026)',
+    'alt_name' => 'ハイスクール！奇面組 (2026)',
+  ),
+  299 => 
+  array (
+    'mal_id' => 59853,
+    'airingAt' => 1774018800,
+    'episode' => 11,
+    'name' => 'DARK MOON: THE BLOOD ALTAR',
+    'alt_name' => 'DARK MOON　-黒の月: 月の祭壇-',
+  ),
+  300 => 
+  array (
+    'mal_id' => 60460,
+    'airingAt' => 1774024500,
+    'episode' => 11,
+    'name' => 'HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing',
+    'alt_name' => 'ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～',
+  ),
+  301 => 
+  array (
+    'mal_id' => 59229,
+    'airingAt' => 1774025580,
+    'episode' => 11,
+    'name' => 'Fire Force Season 3 Part 2',
+    'alt_name' => '炎炎ノ消防隊 参ノ章 第2クール',
+  ),
+  302 => 
+  array (
+    'mal_id' => 63106,
+    'airingAt' => 1774036800,
+    'episode' => 11,
+    'name' => 'Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu',
+    'alt_name' => 'ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～',
+  ),
+  303 => 
+  array (
+    'mal_id' => 60070,
+    'airingAt' => 1774044000,
+    'episode' => 50,
+    'name' => 'Kaijuu Sekai Seifuku',
+    'alt_name' => 'かいじゅうせかいせいふく',
+  ),
+  304 => 
+  array (
+    'mal_id' => 50418,
+    'airingAt' => 1774045800,
+    'episode' => 208,
+    'name' => 'Ninjala the Animation',
+    'alt_name' => 'ニンジャラ',
+  ),
+  305 => 
+  array (
+    'mal_id' => 62649,
+    'airingAt' => 1774047600,
+    'episode' => 9,
+    'name' => 'Cardfight!! Vanguard: Divinez Genma Seisen-hen',
+    'alt_name' => 'カードファイト!! ヴァンガード Divinez 幻真星戦編',
+  ),
+  306 => 
+  array (
+    'mal_id' => 51836,
+    'airingAt' => 1774058400,
+    'episode' => 145,
+    'name' => 'Soul Land 2: The Peerless Tang Clan',
+    'alt_name' => '斗罗大陆2绝世唐门',
+  ),
+  307 => 
+  array (
+    'mal_id' => 966,
+    'airingAt' => 1774078200,
+    'episode' => 1327,
+    'name' => 'Shin Chan',
+    'alt_name' => 'クレヨンしんちゃん',
+  ),
+  308 => 
+  array (
+    'mal_id' => 8687,
+    'airingAt' => 1774080000,
+    'episode' => 907,
+    'name' => 'Doraemon (2005)',
+    'alt_name' => 'ドラえもん (2005)',
+  ),
+  309 => 
+  array (
+    'mal_id' => 235,
+    'airingAt' => 1774083600,
+    'episode' => 1194,
+    'name' => 'Case Closed',
+    'alt_name' => '名探偵コナン',
+  ),
+  310 => 
+  array (
+    'mal_id' => 60983,
+    'airingAt' => 1774085100,
+    'episode' => 20,
+    'name' => 'Kagaku×Bouken Survival! 2nd Season',
+    'alt_name' => '科学×冒険サバイバル！ 第2シリーズ',
+  ),
+  311 => 
+  array (
+    'mal_id' => 61207,
+    'airingAt' => 1774096200,
+    'episode' => 11,
+    'name' => 'Reincarnated as a Dragon Hatchling',
+    'alt_name' => '転生したらドラゴンの卵だった',
+  ),
+  312 => 
+  array (
+    'mal_id' => 62864,
+    'airingAt' => 1774096200,
+    'episode' => 11,
+    'name' => 'Omae wa Mada Gunma wo Shiranai: Reiwa-ban',
+    'alt_name' => 'お前はまだグンマを知らない～令和版～ ',
+  ),
+  313 => 
+  array (
+    'mal_id' => 61969,
+    'airingAt' => 1774098000,
+    'episode' => 12,
+    'name' => 'I\'ll Live a Long Life to Dote on My Favorite Stepbrother!',
+    'alt_name' => '最推しの義兄を愛でるため、長生きします！',
+  ),
+  314 => 
+  array (
+    'mal_id' => 54863,
+    'airingAt' => 1774101600,
+    'episode' => 11,
+    'name' => 'TRIGUN STARGAZE',
+    'alt_name' => 'TRIGUN STARGAZE',
+  ),
+  315 => 
+  array (
+    'mal_id' => 61196,
+    'airingAt' => 1774103400,
+    'episode' => 11,
+    'name' => 'Dead Account',
+    'alt_name' => 'デッドアカウント',
+  ),
+  316 => 
+  array (
+    'mal_id' => 55830,
+    'airingAt' => 1774103400,
+    'episode' => 12,
+    'name' => 'Fate/strange Fake',
+    'alt_name' => 'Fate/strange Fake',
+  ),
+  317 => 
+  array (
+    'mal_id' => 54703,
+    'airingAt' => 1774104300,
+    'episode' => 20,
+    'name' => 'To Your Eternity Season 3',
+    'alt_name' => '不滅のあなたへ Season 3',
+  ),
+  318 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1774105200,
+    'episode' => 23,
+    'name' => 'Mu Shen Ji 3',
+    'alt_name' => '牧神记3',
+  ),
+  319 => 
+  array (
+    'mal_id' => 62432,
+    'airingAt' => 1774105200,
+    'episode' => 11,
+    'name' => 'A Misanthrope Teaches a Class for Demi-Humans',
+    'alt_name' => '人外教室の人間嫌い教師',
+  ),
+  320 => 
+  array (
+    'mal_id' => 61159,
+    'airingAt' => 1774107000,
+    'episode' => 24,
+    'name' => 'Tojima Wants to Be a Kamen Rider',
+    'alt_name' => '東島丹三郎は仮面ライダーになりたい',
+  ),
+  321 => 
+  array (
+    'mal_id' => 61217,
+    'airingAt' => 1774108560,
+    'episode' => 11,
+    'name' => 'Scum of the Brave',
+    'alt_name' => '勇者のクズ',
+  ),
+  322 => 
+  array (
+    'mal_id' => 61335,
+    'airingAt' => 1774110600,
+    'episode' => 9,
+    'name' => 'Medalist Season 2',
+    'alt_name' => 'メダリスト 第2期',
+  ),
+  323 => 
+  array (
+    'mal_id' => 63042,
+    'airingAt' => 1774135800,
+    'episode' => 8,
+    'name' => 'Star Detective Precure!',
+    'alt_name' => '名探偵プリキュア！',
+  ),
+  324 => 
+  array (
+    'mal_id' => 59078,
+    'airingAt' => 1774137600,
+    'episode' => 47,
+    'name' => 'Princess-Session Orchestra',
+    'alt_name' => 'プリンセッション・オーケストラ',
+  ),
+  325 => 
+  array (
+    'mal_id' => 61269,
+    'airingAt' => 1774137600,
+    'episode' => 23,
+    'name' => 'DIGIMON BEATBREAK',
+    'alt_name' => 'DIGIMON BEATBREAK',
+  ),
+  326 => 
+  array (
+    'mal_id' => 61092,
+    'airingAt' => 1774139400,
+    'episode' => 50,
+    'name' => 'Himitsu no AiPri: Ring-hen',
+    'alt_name' => 'ひみつのアイプリ リング編',
+  ),
+  327 => 
+  array (
+    'mal_id' => 62126,
+    'airingAt' => 1774139400,
+    'episode' => 23,
+    'name' => 'SI-VIS: The Sound of Heroes',
+    'alt_name' => 'SI-VIS: The Sound of Heroes',
+  ),
+  328 => 
+  array (
+    'mal_id' => 62340,
+    'airingAt' => 1774144800,
+    'episode' => 13,
+    'name' => 'Beyond Time\'s Gaze',
+    'alt_name' => '光阴之外',
+  ),
+  329 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1774144800,
+    'episode' => 34,
+    'name' => 'Dou Po Cangqiong: Nian Fan 4',
+    'alt_name' => '斗破苍穹 年番4',
+  ),
+  330 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1774144800,
+    'episode' => 365,
+    'name' => 'Wushen Zhuzai: Da Wei Pian',
+    'alt_name' => '武神主宰 大威篇',
+  ),
+  331 => 
+  array (
+    'mal_id' => 61663,
+    'airingAt' => 1774164600,
+    'episode' => 11,
+    'name' => 'In the Clear Moonlit Dusk',
+    'alt_name' => 'うるわしの宵の月',
+  ),
+  332 => 
+  array (
+    'mal_id' => 60371,
+    'airingAt' => 1774166400,
+    'episode' => 11,
+    'name' => 'You and I Are Polar Opposites',
+    'alt_name' => '正反対な君と僕',
+  ),
+  333 => 
+  array (
+    'mal_id' => 60223,
+    'airingAt' => 1774168200,
+    'episode' => 11,
+    'name' => 'Kaya-chan Isn\'t Scary',
+    'alt_name' => 'カヤちゃんはコワくない',
+  ),
+  334 => 
+  array (
+    'mal_id' => 44042,
+    'airingAt' => 1774170000,
+    'episode' => 358,
+    'name' => 'Holo no Graffiti',
+    'alt_name' => 'ホロのぐらふぃてぃ',
+  ),
+  335 => 
+  array (
+    'mal_id' => 2406,
+    'airingAt' => 1774171800,
+    'episode' => 2824,
+    'name' => 'Sazae-san',
+    'alt_name' => 'サザエさん',
+  ),
+  336 => 
+  array (
+    'mal_id' => 60810,
+    'airingAt' => 1774184400,
+    'episode' => 13,
+    'name' => 'Kunon the Sorcerer Can See',
+    'alt_name' => '魔術師クノンは見えている',
+  ),
+  337 => 
+  array (
+    'mal_id' => 62000,
+    'airingAt' => 1774188000,
+    'episode' => 11,
+    'name' => 'The Villainess Is Adored by the Prince of the Neighbor Kingdom',
+    'alt_name' => '悪役令嬢は隣国の王太子に溺愛される',
+  ),
+  338 => 
+  array (
+    'mal_id' => 61084,
+    'airingAt' => 1774189800,
+    'episode' => 10,
+    'name' => 'Oedo Fire Slayer -The Legend of Phoenix-',
+    'alt_name' => '火喰鳥',
+  ),
+  339 => 
+  array (
+    'mal_id' => 55825,
+    'airingAt' => 1774190640,
+    'episode' => 11,
+    'name' => 'Hell’s Paradise Season 2',
+    'alt_name' => '地獄楽 第二期',
+  ),
+  340 => 
+  array (
+    'mal_id' => 60692,
+    'airingAt' => 1774191600,
+    'episode' => 12,
+    'name' => 'Noble Reincarnation: Born Blessed, So I\'ll Obtain Ultimate Power',
+    'alt_name' => '貴族転生 ～恵まれた生まれから最強の力を得る～',
+  ),
+  341 => 
+  array (
+    'mal_id' => 58788,
+    'airingAt' => 1774191600,
+    'episode' => 12,
+    'name' => 'Journal with Witch',
+    'alt_name' => '違国日記',
+  ),
+  342 => 
+  array (
+    'mal_id' => 61886,
+    'airingAt' => 1774193400,
+    'episode' => 12,
+    'name' => 'The Daily Life of a Part-time Torturer',
+    'alt_name' => '拷問バイトくんの日常',
+  ),
+  343 => 
+  array (
+    'mal_id' => 62897,
+    'airingAt' => 1774195500,
+    'episode' => 12,
+    'name' => 'Ichigo Aika: Strawberry Elegy',
+    'alt_name' => 'イチゴ哀歌～雑で生イキな妹と割り切れない兄～',
+  ),
+  344 => 
+  array (
+    'mal_id' => 63087,
+    'airingAt' => 1774200000,
+    'episode' => 11,
+    'name' => 'Theatre of Darkness: Yamishibai 16',
+    'alt_name' => '闇芝居 十六期',
+  ),
+  345 => 
+  array (
+    'mal_id' => 62987,
+    'airingAt' => 1774263600,
+    'episode' => 12,
+    'name' => 'Hokuto no Ken: Kenou-gun Zako-tachi no Banka',
+    'alt_name' => '北斗の拳 拳王軍ザコたちの挽歌',
+  ),
+  346 => 
+  array (
+    'mal_id' => 61782,
+    'airingAt' => 1774270800,
+    'episode' => 12,
+    'name' => 'Wash It All Away',
+    'alt_name' => '綺麗にしてもらえますか。',
+  ),
+  347 => 
+  array (
+    'mal_id' => 61942,
+    'airingAt' => 1774270800,
+    'episode' => 12,
+    'name' => 'My Hero Academia: Vigilantes Season 2',
+    'alt_name' => 'ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期',
+  ),
+  348 => 
+  array (
+    'mal_id' => 55772,
+    'airingAt' => 1774274400,
+    'episode' => 12,
+    'name' => 'Golden Kamuy Final Season',
+    'alt_name' => 'ゴールデンカムイ 最終章',
+  ),
+  349 => 
+  array (
+    'mal_id' => 58524,
+    'airingAt' => 1774276200,
+    'episode' => 11,
+    'name' => '\'Tis Time for "Torture," Princess Season 2',
+    'alt_name' => '姫様“拷問”の時間です 第2期',
+  ),
+  350 => 
+  array (
+    'mal_id' => 61359,
+    'airingAt' => 1774278000,
+    'episode' => 12,
+    'name' => 'You Can\'t Be In a Rom-Com with Your Childhood Friends!',
+    'alt_name' => '幼馴染とはラブコメにならない',
+  ),
+  351 => 
+  array (
+    'mal_id' => 63411,
+    'airingAt' => 1774278000,
+    'episode' => 1,
+    'name' => 'Fukufuku no Chizu',
+    'alt_name' => 'ふくふくの地図',
+  ),
+  352 => 
+  array (
+    'mal_id' => 62927,
+    'airingAt' => 1774288800,
+    'episode' => 4,
+    'name' => 'Release that Witch',
+    'alt_name' => '放开那个女巫',
+  ),
+  353 => 
+  array (
+    'mal_id' => 63200,
+    'airingAt' => 1774303200,
+    'episode' => 11,
+    'name' => 'Himitsu Kessha Taka no Tsume XX',
+    'alt_name' => '秘密結社 鷹の爪XX（ダブルエックス）',
+  ),
+  354 => 
+  array (
+    'mal_id' => 50250,
+    'airingAt' => 1774305600,
+    'episode' => 328,
+    'name' => 'Chiikawa',
+    'alt_name' => 'ちいかわ',
+  ),
+  355 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1774317600,
+    'episode' => 366,
+    'name' => 'Wushen Zhuzai: Da Wei Pian',
+    'alt_name' => '武神主宰 大威篇',
+  ),
+  356 => 
+  array (
+    'mal_id' => 61211,
+    'airingAt' => 1774360800,
+    'episode' => 12,
+    'name' => 'Tune In to the Midnight Heart',
+    'alt_name' => '真夜中ハートチューン',
+  ),
+  357 => 
+  array (
+    'mal_id' => 60226,
+    'airingAt' => 1774360800,
+    'episode' => 12,
+    'name' => 'Isekai Office Worker: The Other World\'s Books Depend on the Bean Counter',
+    'alt_name' => '異世界の沙汰は社畜次第',
+  ),
+  358 => 
+  array (
+    'mal_id' => 61983,
+    'airingAt' => 1774360800,
+    'episode' => 12,
+    'name' => 'There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her',
+    'alt_name' => '勇者パーティーにかわいい子がいたので、告白してみた。',
+  ),
+  359 => 
+  array (
+    'mal_id' => 61830,
+    'airingAt' => 1774362600,
+    'episode' => 12,
+    'name' => 'Yoroi-Shinden Samurai Troopers',
+    'alt_name' => '鎧真伝サムライトルーパー',
+  ),
+  360 => 
+  array (
+    'mal_id' => 58886,
+    'airingAt' => 1774364400,
+    'episode' => 12,
+    'name' => 'The Darwin Incident',
+    'alt_name' => 'ダーウィン事変',
+  ),
+  361 => 
+  array (
+    'mal_id' => 60255,
+    'airingAt' => 1774369740,
+    'episode' => 12,
+    'name' => 'The Case Book of Arne',
+    'alt_name' => 'アルネの事件簿',
+  ),
+  362 => 
+  array (
+    'mal_id' => 61765,
+    'airingAt' => 1774389960,
+    'episode' => 39,
+    'name' => 'Chibi Godzilla Raids Again Season 3',
+    'alt_name' => 'ちびゴジラの逆襲(第3期)',
+  ),
+  363 => 
+  array (
+    'mal_id' => 63151,
+    'airingAt' => 1774393200,
+    'episode' => 12,
+    'name' => 'mofusand',
+    'alt_name' => 'mofusand ',
+  ),
+  364 => 
+  array (
+    'mal_id' => 63216,
+    'airingAt' => 1774400040,
+    'episode' => 10,
+    'name' => 'GelPiyo',
+    'alt_name' => 'ゲルぴよ',
+  ),
+  365 => 
+  array (
+    'mal_id' => 51289,
+    'airingAt' => 1774404000,
+    'episode' => 154,
+    'name' => 'Shrouding the Heavens',
+    'alt_name' => '遮天',
+  ),
+  366 => 
+  array (
+    'mal_id' => 61254,
+    'airingAt' => 1774436400,
+    'episode' => 24,
+    'name' => 'Cat Tales',
+    'alt_name' => 'うごく！ねこむかしばなし',
+  ),
+  367 => 
+  array (
+    'mal_id' => 61637,
+    'airingAt' => 1774441800,
+    'episode' => 12,
+    'name' => 'An Adventurer’s Daily Grind at Age 29',
+    'alt_name' => '29歳独身中堅冒険者の日常',
+  ),
+  368 => 
+  array (
+    'mal_id' => 61549,
+    'airingAt' => 1774443600,
+    'episode' => 12,
+    'name' => 'Easygoing Territory Defense by the Optimistic Lord',
+    'alt_name' => 'お気楽領主の楽しい領地防衛',
+  ),
+  369 => 
+  array (
+    'mal_id' => 60058,
+    'airingAt' => 1774447200,
+    'episode' => 11,
+    'name' => '【OSHI NO KO】Season 3',
+    'alt_name' => '【推しの子】第3期',
+  ),
+  370 => 
+  array (
+    'mal_id' => 61608,
+    'airingAt' => 1774449960,
+    'episode' => 12,
+    'name' => 'Hell Teacher: Jigoku Sensei Nube (2025) Part 2',
+    'alt_name' => '地獄先生ぬ～べ～ (2025) 第2クール',
+  ),
+  371 => 
+  array (
+    'mal_id' => 60071,
+    'airingAt' => 1774450800,
+    'episode' => 12,
+    'name' => 'A Gentle Noble\'s Vacation Recommendation',
+    'alt_name' => '穏やか貴族の休暇のすすめ。',
+  ),
+  372 => 
+  array (
+    'mal_id' => 59047,
+    'airingAt' => 1774450800,
+    'episode' => 13,
+    'name' => 'Tamon\'s B-Side',
+    'alt_name' => '多聞くん今どっち！？',
+  ),
+  373 => 
+  array (
+    'mal_id' => 63275,
+    'airingAt' => 1774476000,
+    'episode' => 12,
+    'name' => 'Black Jack Yanen',
+    'alt_name' => 'ブラックジャックやねん',
+  ),
+  374 => 
+  array (
+    'mal_id' => 62676,
+    'airingAt' => 1774517400,
+    'episode' => 24,
+    'name' => 'PetitCure: Precure Fairies Season 2',
+    'alt_name' => 'ぷちきゅあ～Precure Fairies～ シーズン２',
+  ),
+  375 => 
+  array (
+    'mal_id' => 60591,
+    'airingAt' => 1774522800,
+    'episode' => 22,
+    'name' => 'Reborn as a Cat',
+    'alt_name' => '为喵人生',
+  ),
+  376 => 
+  array (
+    'mal_id' => 61107,
+    'airingAt' => 1774530000,
+    'episode' => 25,
+    'name' => 'GANSO! BanG Dream Chan',
+    'alt_name' => '元祖！バンドリちゃん',
+  ),
+  377 => 
+  array (
+    'mal_id' => 56009,
+    'airingAt' => 1774531800,
+    'episode' => 12,
+    'name' => 'Sentenced to Be a Hero',
+    'alt_name' => '勇者刑に処す　懲罰勇者9004隊刑務記録',
+  ),
+  378 => 
+  array (
+    'mal_id' => 58505,
+    'airingAt' => 1774533600,
+    'episode' => 12,
+    'name' => 'Chained Soldier Season 2',
+    'alt_name' => '魔都精兵のスレイブ2',
+  ),
+  379 => 
+  array (
+    'mal_id' => 60395,
+    'airingAt' => 1774535400,
+    'episode' => 12,
+    'name' => 'The Invisible Man and His Soon-to-Be Wife',
+    'alt_name' => '透明男と人間女～そのうち夫婦になるふたり～',
+  ),
+  380 => 
+  array (
+    'mal_id' => 60602,
+    'airingAt' => 1774535400,
+    'episode' => 13,
+    'name' => 'MF GHOST Season 3',
+    'alt_name' => 'MFゴースト 3rd Season',
+  ),
+  381 => 
+  array (
+    'mal_id' => 60151,
+    'airingAt' => 1774536960,
+    'episode' => 12,
+    'name' => 'The Holy Grail of Eris',
+    'alt_name' => 'エリスの聖杯',
+  ),
+  382 => 
+  array (
+    'mal_id' => 61156,
+    'airingAt' => 1774537200,
+    'episode' => 1,
+    'name' => 'THE IDOLM@STER Million Live!: Itsuka, Mannaka de',
+    'alt_name' => 'アイドルマスター ミリオンライブ！～いつか、真ん中で～',
+  ),
+  383 => 
+  array (
+    'mal_id' => 61492,
+    'airingAt' => 1774537200,
+    'episode' => 1,
+    'name' => 'Entotsu-machi no Poupelle: Yakusoku no Tokei-dai',
+    'alt_name' => 'えんとつ町のプペル 〜約束の時計台〜',
+  ),
+  384 => 
+  array (
+    'mal_id' => 62339,
+    'airingAt' => 1774537200,
+    'episode' => 4,
+    'name' => 'Honey Blonde 2',
+    'alt_name' => 'ハニーブロンド2',
+  ),
+  385 => 
+  array (
+    'mal_id' => 63158,
+    'airingAt' => 1774537200,
+    'episode' => 1,
+    'name' => 'Hebi to Kumo',
+    'alt_name' => '蛇と蜘蛛',
+  ),
+  386 => 
+  array (
+    'mal_id' => 62577,
+    'airingAt' => 1774537200,
+    'episode' => 2,
+    'name' => 'Seihou Shouka Saint Lime VN: VeasTube Eroero Haishin Edition♪',
+    'alt_name' => '聖宝晶華セイントライムVN ～VeasTubeエロエロ配信Edition♪～',
+  ),
+  387 => 
+  array (
+    'mal_id' => 62578,
+    'airingAt' => 1774537200,
+    'episode' => 2,
+    'name' => 'Cool de M',
+    'alt_name' => 'クール de M',
+  ),
+  388 => 
+  array (
+    'mal_id' => 63232,
+    'airingAt' => 1774537200,
+    'episode' => 1,
+    'name' => 'Phantom Alchemia: Sylvia no Dokidoki Sakusei Toshi Keikaku',
+    'alt_name' => 'ファントム・アルケミア ～シルヴィアのドキドキ搾精都市計画～',
+  ),
+  389 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1774537200,
+    'episode' => 1,
+    'name' => 'Kegareboshi Murasaki',
+    'alt_name' => 'ケガレボシ 紫',
+  ),
+  390 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1774537200,
+    'episode' => 1,
+    'name' => 'Kegareboshi Kuro',
+    'alt_name' => 'ケガレボシ 黒',
+  ),
+  391 => 
+  array (
+    'mal_id' => 57658,
+    'airingAt' => 1774538760,
+    'episode' => 12,
+    'name' => 'JUJUTSU KAISEN Season 3: The Culling Game Part 1',
+    'alt_name' => '呪術廻戦 死滅回游 前編',
+  ),
+  392 => 
+  array (
+    'mal_id' => 61587,
+    'airingAt' => 1774539000,
+    'episode' => 12,
+    'name' => 'ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!',
+    'alt_name' => '「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい',
+  ),
+  393 => 
+  array (
+    'mal_id' => 61325,
+    'airingAt' => 1774542480,
+    'episode' => 12,
+    'name' => 'Anyway, I\'m Falling in Love with You. Season 2',
+    'alt_name' => 'どうせ、恋してしまうんだ。Season 2',
+  ),
+  394 => 
+  array (
+    'mal_id' => 60947,
+    'airingAt' => 1774544280,
+    'episode' => 50,
+    'name' => 'Nmeneko',
+    'alt_name' => 'ンめねこ',
+  ),
+  395 => 
+  array (
+    'mal_id' => 8336,
+    'airingAt' => 1774563000,
+    'episode' => 649,
+    'name' => 'Hanakappa',
+    'alt_name' => 'はなかっぱ',
+  ),
+  396 => 
+  array (
+    'mal_id' => 50250,
+    'airingAt' => 1774564800,
+    'episode' => 329,
+    'name' => 'Chiikawa',
+    'alt_name' => 'ちいかわ',
+  ),
+  397 => 
+  array (
+    'mal_id' => 56566,
+    'airingAt' => 1774603500,
+    'episode' => 122,
+    'name' => 'BEYBLADE X',
+    'alt_name' => 'BEYBLADE X',
+  ),
+  398 => 
+  array (
+    'mal_id' => 53876,
+    'airingAt' => 1774605300,
+    'episode' => 133,
+    'name' => 'Pokémon Horizons: The Series',
+    'alt_name' => 'ポケットモンスター (2023)',
+  ),
+  399 => 
+  array (
+    'mal_id' => 62378,
+    'airingAt' => 1774617720,
+    'episode' => 24,
+    'name' => 'GANGLION',
+    'alt_name' => 'ガングリオン',
+  ),
+  400 => 
+  array (
+    'mal_id' => 59978,
+    'airingAt' => 1774620000,
+    'episode' => 10,
+    'name' => 'Frieren: Beyond Journey’s End Season 2',
+    'alt_name' => '葬送のフリーレン 第2期',
+  ),
+  401 => 
+  array (
+    'mal_id' => 62804,
+    'airingAt' => 1774621800,
+    'episode' => 12,
+    'name' => 'High School! Kimengumi (2026)',
+    'alt_name' => 'ハイスクール！奇面組 (2026)',
+  ),
+  402 => 
+  array (
+    'mal_id' => 59853,
+    'airingAt' => 1774623600,
+    'episode' => 12,
+    'name' => 'DARK MOON: THE BLOOD ALTAR',
+    'alt_name' => 'DARK MOON　-黒の月: 月の祭壇-',
+  ),
+  403 => 
+  array (
+    'mal_id' => 60460,
+    'airingAt' => 1774629300,
+    'episode' => 12,
+    'name' => 'HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing',
+    'alt_name' => 'ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～',
+  ),
+  404 => 
+  array (
+    'mal_id' => 59229,
+    'airingAt' => 1774630380,
+    'episode' => 12,
+    'name' => 'Fire Force Season 3 Part 2',
+    'alt_name' => '炎炎ノ消防隊 参ノ章 第2クール',
+  ),
+  405 => 
+  array (
+    'mal_id' => 63106,
+    'airingAt' => 1774641600,
+    'episode' => 12,
+    'name' => 'Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu',
+    'alt_name' => 'ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～',
+  ),
+  406 => 
+  array (
+    'mal_id' => 60070,
+    'airingAt' => 1774648800,
+    'episode' => 51,
+    'name' => 'Kaijuu Sekai Seifuku',
+    'alt_name' => 'かいじゅうせかいせいふく',
+  ),
+  407 => 
+  array (
+    'mal_id' => 50418,
+    'airingAt' => 1774650600,
+    'episode' => 209,
+    'name' => 'Ninjala the Animation',
+    'alt_name' => 'ニンジャラ',
+  ),
+  408 => 
+  array (
+    'mal_id' => 62649,
+    'airingAt' => 1774652400,
+    'episode' => 10,
+    'name' => 'Cardfight!! Vanguard: Divinez Genma Seisen-hen',
+    'alt_name' => 'カードファイト!! ヴァンガード Divinez 幻真星戦編',
+  ),
+  409 => 
+  array (
+    'mal_id' => 51836,
+    'airingAt' => 1774663200,
+    'episode' => 146,
+    'name' => 'Soul Land 2: The Peerless Tang Clan',
+    'alt_name' => '斗罗大陆2绝世唐门',
+  ),
+  410 => 
+  array (
+    'mal_id' => 966,
+    'airingAt' => 1774683000,
+    'episode' => 1328,
+    'name' => 'Shin Chan',
+    'alt_name' => 'クレヨンしんちゃん',
+  ),
+  411 => 
+  array (
+    'mal_id' => 8687,
+    'airingAt' => 1774684800,
+    'episode' => 908,
+    'name' => 'Doraemon (2005)',
+    'alt_name' => 'ドラえもん (2005)',
+  ),
+  412 => 
+  array (
+    'mal_id' => 235,
+    'airingAt' => 1774688400,
+    'episode' => 1195,
+    'name' => 'Case Closed',
+    'alt_name' => '名探偵コナン',
+  ),
+  413 => 
+  array (
+    'mal_id' => 60983,
+    'airingAt' => 1774689900,
+    'episode' => 21,
+    'name' => 'Kagaku×Bouken Survival! 2nd Season',
+    'alt_name' => '科学×冒険サバイバル！ 第2シリーズ',
+  ),
+  414 => 
+  array (
+    'mal_id' => 61207,
+    'airingAt' => 1774701000,
+    'episode' => 12,
+    'name' => 'Reincarnated as a Dragon Hatchling',
+    'alt_name' => '転生したらドラゴンの卵だった',
+  ),
+  415 => 
+  array (
+    'mal_id' => 62864,
+    'airingAt' => 1774701000,
+    'episode' => 12,
+    'name' => 'Omae wa Mada Gunma wo Shiranai: Reiwa-ban',
+    'alt_name' => 'お前はまだグンマを知らない～令和版～ ',
+  ),
+  416 => 
+  array (
+    'mal_id' => 54863,
+    'airingAt' => 1774706400,
+    'episode' => 12,
+    'name' => 'TRIGUN STARGAZE',
+    'alt_name' => 'TRIGUN STARGAZE',
+  ),
+  417 => 
+  array (
+    'mal_id' => 61196,
+    'airingAt' => 1774708200,
+    'episode' => 12,
+    'name' => 'Dead Account',
+    'alt_name' => 'デッドアカウント',
+  ),
+  418 => 
+  array (
+    'mal_id' => 55830,
+    'airingAt' => 1774708200,
+    'episode' => 13,
+    'name' => 'Fate/strange Fake',
+    'alt_name' => 'Fate/strange Fake',
+  ),
+  419 => 
+  array (
+    'mal_id' => 54703,
+    'airingAt' => 1774709100,
+    'episode' => 21,
+    'name' => 'To Your Eternity Season 3',
+    'alt_name' => '不滅のあなたへ Season 3',
+  ),
+  420 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1774710000,
+    'episode' => 24,
+    'name' => 'Mu Shen Ji 3',
+    'alt_name' => '牧神记3',
+  ),
+  421 => 
+  array (
+    'mal_id' => 62432,
+    'airingAt' => 1774710000,
+    'episode' => 12,
+    'name' => 'A Misanthrope Teaches a Class for Demi-Humans',
+    'alt_name' => '人外教室の人間嫌い教師',
+  ),
+  422 => 
+  array (
+    'mal_id' => 61443,
+    'airingAt' => 1774710000,
+    'episode' => 1,
+    'name' => 'Shunkashuutou Daikousha: Haru no Mai',
+    'alt_name' => '春夏秋冬代行者 春の舞',
+  ),
+  423 => 
+  array (
+    'mal_id' => 61217,
+    'airingAt' => 1774713360,
+    'episode' => 12,
+    'name' => 'Scum of the Brave',
+    'alt_name' => '勇者のクズ',
+  ),
+  424 => 
+  array (
+    'mal_id' => 63042,
+    'airingAt' => 1774740600,
+    'episode' => 9,
+    'name' => 'Star Detective Precure!',
+    'alt_name' => '名探偵プリキュア！',
+  ),
+  425 => 
+  array (
+    'mal_id' => 59078,
+    'airingAt' => 1774742400,
+    'episode' => 48,
+    'name' => 'Princess-Session Orchestra',
+    'alt_name' => 'プリンセッション・オーケストラ',
+  ),
+  426 => 
+  array (
+    'mal_id' => 61269,
+    'airingAt' => 1774742400,
+    'episode' => 24,
+    'name' => 'DIGIMON BEATBREAK',
+    'alt_name' => 'DIGIMON BEATBREAK',
+  ),
+  427 => 
+  array (
+    'mal_id' => 62126,
+    'airingAt' => 1774744200,
+    'episode' => 24,
+    'name' => 'SI-VIS: The Sound of Heroes',
+    'alt_name' => 'SI-VIS: The Sound of Heroes',
+  ),
+  428 => 
+  array (
+    'mal_id' => 62340,
+    'airingAt' => 1774749600,
+    'episode' => 14,
+    'name' => 'Beyond Time\'s Gaze',
+    'alt_name' => '光阴之外',
+  ),
+  429 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1774749600,
+    'episode' => 35,
+    'name' => 'Dou Po Cangqiong: Nian Fan 4',
+    'alt_name' => '斗破苍穹 年番4',
+  ),
+  430 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1774749600,
+    'episode' => 367,
+    'name' => 'Wushen Zhuzai: Da Wei Pian',
+    'alt_name' => '武神主宰 大威篇',
+  ),
+  431 => 
+  array (
+    'mal_id' => 61663,
+    'airingAt' => 1774769400,
+    'episode' => 12,
+    'name' => 'In the Clear Moonlit Dusk',
+    'alt_name' => 'うるわしの宵の月',
+  ),
+  432 => 
+  array (
+    'mal_id' => 60371,
+    'airingAt' => 1774771200,
+    'episode' => 12,
+    'name' => 'You and I Are Polar Opposites',
+    'alt_name' => '正反対な君と僕',
+  ),
+  433 => 
+  array (
+    'mal_id' => 60223,
+    'airingAt' => 1774773000,
+    'episode' => 12,
+    'name' => 'Kaya-chan Isn\'t Scary',
+    'alt_name' => 'カヤちゃんはコワくない',
+  ),
+  434 => 
+  array (
+    'mal_id' => 44042,
+    'airingAt' => 1774774800,
+    'episode' => 359,
+    'name' => 'Holo no Graffiti',
+    'alt_name' => 'ホロのぐらふぃてぃ',
+  ),
+  435 => 
+  array (
+    'mal_id' => 2406,
+    'airingAt' => 1774776600,
+    'episode' => 2825,
+    'name' => 'Sazae-san',
+    'alt_name' => 'サザエさん',
+  ),
+  436 => 
+  array (
+    'mal_id' => 62000,
+    'airingAt' => 1774792800,
+    'episode' => 12,
+    'name' => 'The Villainess Is Adored by the Prince of the Neighbor Kingdom',
+    'alt_name' => '悪役令嬢は隣国の王太子に溺愛される',
+  ),
+  437 => 
+  array (
+    'mal_id' => 61084,
+    'airingAt' => 1774794600,
+    'episode' => 11,
+    'name' => 'Oedo Fire Slayer -The Legend of Phoenix-',
+    'alt_name' => '火喰鳥',
+  ),
+  438 => 
+  array (
+    'mal_id' => 55825,
+    'airingAt' => 1774795440,
+    'episode' => 12,
+    'name' => 'Hell’s Paradise Season 2',
+    'alt_name' => '地獄楽 第二期',
+  ),
+  439 => 
+  array (
+    'mal_id' => 58788,
+    'airingAt' => 1774796400,
+    'episode' => 13,
+    'name' => 'Journal with Witch',
+    'alt_name' => '違国日記',
+  ),
+  440 => 
+  array (
+    'mal_id' => 63087,
+    'airingAt' => 1774804800,
+    'episode' => 12,
+    'name' => 'Theatre of Darkness: Yamishibai 16',
+    'alt_name' => '闇芝居 十六期',
+  ),
+  441 => 
+  array (
+    'mal_id' => 61942,
+    'airingAt' => 1774875600,
+    'episode' => 13,
+    'name' => 'My Hero Academia: Vigilantes Season 2',
+    'alt_name' => 'ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期',
+  ),
+  442 => 
+  array (
+    'mal_id' => 55772,
+    'airingAt' => 1774879200,
+    'episode' => 13,
+    'name' => 'Golden Kamuy Final Season',
+    'alt_name' => 'ゴールデンカムイ 最終章',
+  ),
+  443 => 
+  array (
+    'mal_id' => 58524,
+    'airingAt' => 1774881000,
+    'episode' => 12,
+    'name' => '\'Tis Time for "Torture," Princess Season 2',
+    'alt_name' => '姫様“拷問”の時間です 第2期',
+  ),
+  444 => 
+  array (
+    'mal_id' => 59517,
+    'airingAt' => 1774881000,
+    'episode' => 11,
+    'name' => 'Chitose Is in the Ramune Bottle',
+    'alt_name' => '千歳くんはラムネ瓶のなか',
+  ),
+  445 => 
+  array (
+    'mal_id' => 62927,
+    'airingAt' => 1774893600,
+    'episode' => 5,
+    'name' => 'Release that Witch',
+    'alt_name' => '放开那个女巫',
+  ),
+  446 => 
+  array (
+    'mal_id' => 63200,
+    'airingAt' => 1774908000,
+    'episode' => 12,
+    'name' => 'Himitsu Kessha Taka no Tsume XX',
+    'alt_name' => '秘密結社 鷹の爪XX（ダブルエックス）',
+  ),
+  447 => 
+  array (
+    'mal_id' => 50250,
+    'airingAt' => 1774910400,
+    'episode' => 330,
+    'name' => 'Chiikawa',
+    'alt_name' => 'ちいかわ',
+  ),
+  448 => 
+  array (
+    'mal_id' => NULL,
+    'airingAt' => 1774922400,
+    'episode' => 368,
+    'name' => 'Wushen Zhuzai: Da Wei Pian',
+    'alt_name' => '武神主宰 大威篇',
+  ),
+  449 => 
+  array (
+    'mal_id' => 61297,
+    'airingAt' => 1774926000,
+    'episode' => 12,
+    'name' => 'Gekkan! Nanmono Anime',
+    'alt_name' => 'げっかん！なんものアニメ',
+  ),
+  450 => 
+  array (
+    'mal_id' => 59517,
+    'airingAt' => 1774947600,
+    'episode' => 12,
+    'name' => 'Chitose Is in the Ramune Bottle',
+    'alt_name' => '千歳くんはラムネ瓶のなか',
+  ),
+  451 => 
+  array (
+    'mal_id' => 59517,
+    'airingAt' => 1774949400,
+    'episode' => 13,
+    'name' => 'Chitose Is in the Ramune Bottle',
+    'alt_name' => '千歳くんはラムネ瓶のなか',
+  ),
+  452 => 
+  array (
+    'mal_id' => 61983,
+    'airingAt' => 1774965600,
+    'episode' => 13,
+    'name' => 'There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her',
+    'alt_name' => '勇者パーティーにかわいい子がいたので、告白してみた。',
+  ),
+  453 => 
+  array (
+    'mal_id' => 59708,
+    'airingAt' => 1774969200,
+    'episode' => 1,
+    'name' => 'Classroom of the Elite 2nd Year',
+    'alt_name' => 'ようこそ実力至上主義の教室へ 4th Season 2年生編1学期',
+  ),
+  454 => 
+  array (
+    'mal_id' => 59708,
+    'airingAt' => 1774969200,
+    'episode' => 2,
+    'name' => 'Classroom of the Elite 2nd Year',
+    'alt_name' => 'ようこそ実力至上主義の教室へ 4th Season 2年生編1学期',
+  ),
+  455 => 
+  array (
+    'mal_id' => 59708,
+    'airingAt' => 1774969200,
+    'episode' => 3,
+    'name' => 'Classroom of the Elite 2nd Year',
+    'alt_name' => 'ようこそ実力至上主義の教室へ 4th Season 2年生編1学期',
+  ),
+  456 => 
+  array (
+    'mal_id' => 61765,
+    'airingAt' => 1774994760,
+    'episode' => 40,
+    'name' => 'Chibi Godzilla Raids Again Season 3',
+    'alt_name' => 'ちびゴジラの逆襲(第3期)',
+  ),
+  457 => 
+  array (
+    'mal_id' => 63151,
+    'airingAt' => 1774998000,
+    'episode' => 13,
+    'name' => 'mofusand',
+    'alt_name' => 'mofusand ',
+  ),
+);

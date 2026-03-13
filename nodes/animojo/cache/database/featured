@@ -1,0 +1,42 @@
+<?php return array (
+  0 => 
+  array (
+    'id' => '1060',
+    'img' => 'https://i.ibb.co/SXVDhSjS/1.jpg',
+  ),
+  1 => 
+  array (
+    'id' => '1067',
+    'img' => 'https://i.ibb.co/WXHL8cN/2.jpg',
+  ),
+  2 => 
+  array (
+    'id' => '1064',
+    'img' => 'https://i.ibb.co/XrCYJm7Z/3.jpg',
+  ),
+  3 => 
+  array (
+    'id' => '1047',
+    'img' => 'https://i.ibb.co/TB8qtm7K/4.jpg',
+  ),
+  4 => 
+  array (
+    'id' => '758',
+    'img' => 'https://i.ibb.co/bjGJpZPp/4.jpg',
+  ),
+  5 => 
+  array (
+    'id' => '1062',
+    'img' => 'https://i.ibb.co/JwFxXB85/5.jpg',
+  ),
+  6 => 
+  array (
+    'id' => '898',
+    'img' => 'https://i.ibb.co/WNZ6GW8X/2.jpg',
+  ),
+  7 => 
+  array (
+    'id' => '897',
+    'img' => 'https://i.ibb.co/LdFpzsjr/1.jpg',
+  ),
+);

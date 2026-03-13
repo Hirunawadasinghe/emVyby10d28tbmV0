@@ -1,0 +1,2393 @@
+{
+    "author": {
+        "1": "AniMojo",
+        "2": "AniMojo (Translate)",
+        "3": "Baiscope",
+        "4": "ලංකන් Weebs",
+        "5": "SL Donghua Sub",
+        "6": "Kazuma Satou",
+        "7": "චමිදු කුශාන්ත​",
+        "8": "ෂනාල් සිල්වා",
+        "9": "ඉසුරු නවෝද්‍ය",
+        "10": "AVEEZ ID",
+        "11": "රවිඳුු බණ්ඩාර",
+        "12": "නවෝදනී තිළිණි",
+        "13": "කවීෂ කල්‍යාණ",
+        "14": "හිරු ප්‍රභා පෙරේරා",
+        "15": "DML ගංගානාත්",
+        "16": "අශේන් ගගනක",
+        "17": "පවිත් විජේසූරිය",
+        "18": "කවිදු කල්හාර",
+        "19": "සනුප රන්මෙත්",
+        "20": "නිශාන් සමීර",
+        "21": "තිසුර සංජන",
+        "22": "සජීඩ් උස්මාන්",
+        "23": "හෙළිලි හේමමාලි",
+        "24": "SinhaSub",
+        "25": "කළණ ලියන ආරච්චි",
+        "26": "නවෝද්‍ය සුභාෂිත",
+        "27": "ගයාන් චතුරංග",
+        "28": "Anime Kingdom"
+    },
+    "iso_codes": {
+        "en": "English",
+        "si": "Sinhala"
+    },
+    "subtitles": [
+        {
+            "id": [
+                "512",
+                "852"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "si",
+                    "url": "solo-leveling-s2"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "solo-leveling-s2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "54",
+                "671"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "hunter-x-hunter-2011"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "hunter-x-hunter-2011"
+                }
+            ]
+        },
+        {
+            "id": [
+                "113",
+                "114"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "wind-breaker-s1"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "wind-breaker-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "698"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "wind-breaker-s2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "28"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "aot-final-season-p1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "62"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "aot-final-season-p2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "95"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "attack-on-titan-final-season-the-final-chapters"
+                }
+            ]
+        },
+        {
+            "id": [
+                "16"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "death-note"
+                }
+            ]
+        },
+        {
+            "id": [
+                "695",
+                "900"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "si",
+                    "url": "please-put-them-on-takamine-san"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "please-put-them-on-takamine-san"
+                }
+            ]
+        },
+        {
+            "id": [
+                "718"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "sakamoto-days-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "8",
+                "66"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "demon-slayer-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "661",
+                "662"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "demon-slayer-s2-eda"
+                }
+            ]
+        },
+        {
+            "id": [
+                "658",
+                "659"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "demon-slayer-s3"
+                }
+            ]
+        },
+        {
+            "id": [
+                "6",
+                "7"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "demon-slayer-s4"
+                }
+            ]
+        },
+        {
+            "id": [
+                "699"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "devil-may-cry-remake"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "devil-may-cry-remake"
+                }
+            ]
+        },
+        {
+            "id": [
+                "845",
+                "846"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "si",
+                    "url": "a-day-before-us-s1"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "a-day-before-us-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "847"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "a-day-before-us-s2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "533",
+                "534"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "tokyo-ghoul-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "179"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "jujutsu-kaisen-s2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "63"
+            ],
+            "sub": [
+                {
+                    "auth": 10,
+                    "lan": "si",
+                    "url": "one-piece-fs"
+                },
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "one-piece"
+                }
+            ]
+        },
+        {
+            "id": [
+                "841"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "lazarus"
+                }
+            ]
+        },
+        {
+            "id": [
+                "888",
+                "952"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "si",
+                    "url": "dandadan-s2"
+                },
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "dandadan-s2-lw"
+                }
+            ]
+        },
+        {
+            "id": [
+                "816"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "blue-eye-samurai"
+                }
+            ]
+        },
+        {
+            "id": [
+                "936"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "terminator-zero"
+                }
+            ]
+        },
+        {
+            "id": [
+                "951"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "daily-life-of-the-immortal-king-s1"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "daily-life-of-the-immortal-king-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "144",
+                "145"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "haikyu-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "953"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "daily-life-of-the-immortal-king-s2"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "daily-life-of-the-immortal-king-s2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "h2"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "si",
+                    "url": "boku-no-pico"
+                }
+            ]
+        },
+        {
+            "id": [
+                "h3"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "si",
+                    "url": "pico-to-chico"
+                }
+            ]
+        },
+        {
+            "id": [
+                "h4"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "pico-x-coco-x-chico"
+                }
+            ]
+        },
+        {
+            "id": [
+                "954"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "daily-life-of-the-immortal-king-s3"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "daily-life-of-the-immortal-king-s3"
+                }
+            ]
+        },
+        {
+            "id": [
+                "955"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "daily-life-of-the-immortal-king-s4"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "daily-life-of-the-immortal-king-s4"
+                }
+            ]
+        },
+        {
+            "id": [
+                "984"
+            ],
+            "sub": [
+                {
+                    "auth": 5,
+                    "lan": "si",
+                    "url": "tales-of-herding-gods"
+                }
+            ]
+        },
+        {
+            "id": [
+                "545"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "vinland-saga-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "34"
+            ],
+            "sub": [
+                {
+                    "auth": 12,
+                    "lan": "si",
+                    "url": "a-silent-voice"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "a-silent-voice"
+                }
+            ]
+        },
+        {
+            "id": [
+                "994"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "one-piece-film-red"
+                }
+            ]
+        },
+        {
+            "id": [
+                "120"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "blue-lock-s1"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "blue-lock-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "995"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "the-all-devouring-whale-homecoming"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "the-all-devouring-whale-homecoming"
+                }
+            ]
+        },
+        {
+            "id": [
+                "547"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "vinland-saga-s2"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "vinland-saga-s2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "976"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "dealing-with-mikadono-sisters-is-a-breeze"
+                }
+            ]
+        },
+        {
+            "id": [
+                "919"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "dr-stone-science-future-p2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "906"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "si",
+                    "url": "gachiakuta"
+                }
+            ]
+        },
+        {
+            "id": [
+                "896"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "grand-blue-dreaming-s2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "890"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "lord-of-mysteries"
+                }
+            ]
+        },
+        {
+            "id": [
+                "891"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "my-dress-up-darling-s2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "983"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "nukitashi-the-animation"
+                }
+            ]
+        },
+        {
+            "id": [
+                "894"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "sakamoto-days-p2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "892"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "the-fragrant-flower-blooms-with-dignity"
+                }
+            ]
+        },
+        {
+            "id": [
+                "716",
+                "883"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "to-be-hero-x"
+                }
+            ]
+        },
+        {
+            "id": [
+                "928"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "witch-watch"
+                }
+            ]
+        },
+        {
+            "id": [
+                "893"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "si",
+                    "url": "kaiju-no-8-s2"
+                },
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "kaiju-no-8-s2-lw"
+                }
+            ]
+        },
+        {
+            "id": [
+                "656",
+                "657"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "demon-slayer-s2-mta"
+                }
+            ]
+        },
+        {
+            "id": [
+                "35"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "my-hero-academia-season-1"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "my-hero-academia-season-1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "717"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "sword-of-the-demon-hunter-kijin-gentosho"
+                }
+            ]
+        },
+        {
+            "id": [
+                "523",
+                "524"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "tokyo-ghoul-re-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "527",
+                "528"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "tokyo-ghoul-re-s2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "531",
+                "532"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "tokyo-ghoul-root-a"
+                }
+            ]
+        },
+        {
+            "id": [
+                "996"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "ubel-blatt"
+                }
+            ]
+        },
+        {
+            "id": [
+                "19",
+                "83"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "weathering-with-you"
+                }
+            ]
+        },
+        {
+            "id": [
+                "116"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "the-garden-of-words"
+                }
+            ]
+        },
+        {
+            "id": [
+                "997"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "the-tunnel-to-summer-the-exit-of-goodbyes"
+                }
+            ]
+        },
+        {
+            "id": [
+                "171",
+                "172"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "bubble"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "bubble"
+                }
+            ]
+        },
+        {
+            "id": [
+                "173",
+                "174"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "shikimoris-not-just-a-cutie"
+                }
+            ]
+        },
+        {
+            "id": [
+                "420",
+                "421"
+            ],
+            "sub": [
+                {
+                    "auth": 6,
+                    "lan": "si",
+                    "url": "naruto-shippuden"
+                }
+            ]
+        },
+        {
+            "id": [
+                "560",
+                "561"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "fairy-tail"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "fairy-tail"
+                }
+            ]
+        },
+        {
+            "id": [
+                "37",
+                "626"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "my-hero-academia-season-2"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "my-hero-academia-season-2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "627",
+                "628"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "my-hero-academia-season-3"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "my-hero-academia-season-3"
+                }
+            ]
+        },
+        {
+            "id": [
+                "629",
+                "630"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "my-hero-academia-season-4"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "my-hero-academia-season-4"
+                }
+            ]
+        },
+        {
+            "id": [
+                "631",
+                "632"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "my-hero-academia-season-5"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "my-hero-academia-season-5"
+                }
+            ]
+        },
+        {
+            "id": [
+                "633",
+                "634"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "my-hero-academia-season-6"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "my-hero-academia-season-6"
+                }
+            ]
+        },
+        {
+            "id": [
+                "635",
+                "636"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "my-hero-academia-season-7"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "my-hero-academia-season-7"
+                }
+            ]
+        },
+        {
+            "id": [
+                "639",
+                "640"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "my-hero-academia-memories"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "my-hero-academia-memories"
+                }
+            ]
+        },
+        {
+            "id": [
+                "641"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "my-hero-academia-training-of-the-dead"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "my-hero-academia-training-of-the-dead"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1007"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "one-punch-man-season-3-lw"
+                },
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "one-punch-man-season-3"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1008"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "spy-x-family-s3-lw"
+                },
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "spy-x-family-s3"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1009"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "my-hero-academia-final-season"
+                }
+            ]
+        },
+        {
+            "id": [
+                "853"
+            ],
+            "sub": [
+                {
+                    "auth": 7,
+                    "lan": "si",
+                    "url": "the-super-cube"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1026"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "devilman-crybaby"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "devilman-crybaby"
+                }
+            ]
+        },
+        {
+            "id": [
+                "97"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "spirited-away"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "spirited-away"
+                }
+            ]
+        },
+        {
+            "id": [
+                "991"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "dragon-raja-s1"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "dragon-raja-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "91",
+                "90"
+            ],
+            "sub": [
+                {
+                    "auth": 8,
+                    "lan": "si",
+                    "url": "call-of-the-night-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1031"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "i-parry-everything"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "i-parry-everything"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1032"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "studio-apartment-good-lighting-angel-included"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "studio-apartment-good-lighting-angel-included"
+                }
+            ]
+        },
+        {
+            "id": [
+                "71",
+                "45"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "jujutsu-kaisen-s1"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "jujutsu-kaisen-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "98"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "record-of-ragnarok-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "669",
+                "670"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "welcome-to-the-space-show"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "welcome-to-the-space-show"
+                }
+            ]
+        },
+        {
+            "id": [
+                "479"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "mob-psycho-100-s1"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "mob-psycho-100-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "489"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "mob-psycho-mini"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "mob-psycho-mini"
+                }
+            ]
+        },
+        {
+            "id": [
+                "898",
+                "929",
+                "1033"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "chainsaw-man-the-movie-reze-arc"
+                },
+                {
+                    "auth": 16,
+                    "lan": "si",
+                    "url": "chainsaw-man-the-movie-reze-arc-2"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "chainsaw-man-the-movie-reze-arc"
+                }
+            ]
+        },
+        {
+            "id": [
+                "182"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "record-of-ragnarok-s2-p1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "827"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "record-of-ragnarok-s2-p2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "829"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "record-of-ragnarok-s3-lw"
+                },
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "record-of-ragnarok-s3"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "record-of-ragnarok-s3"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1042"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "aura-koga-maryuins-last-war"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "aura-koga-maryuins-last-war"
+                }
+            ]
+        },
+        {
+            "id": [
+                "105"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "spy-x-family-code-white"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "spy-x-family-code-white"
+                }
+            ]
+        },
+        {
+            "id": [
+                "480",
+                "106"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "gakuen-alice"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "gakuen-alice"
+                }
+            ]
+        },
+        {
+            "id": [
+                "914"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "tougen-anki-lw"
+                },
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "tougen-anki"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "tougen-anki"
+                }
+            ]
+        },
+        {
+            "id": [
+                "482"
+            ],
+            "sub": [
+                {
+                    "auth": 9,
+                    "lan": "si",
+                    "url": "lost-in-starlight"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "lost-in-starlight"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1043"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "tokyo-godfathers"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "tokyo-godfathers"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1044"
+            ],
+            "sub": [
+                {
+                    "auth": 9,
+                    "lan": "si",
+                    "url": "jujutsu-kaisen-hidden-inventory-premature-death-2"
+                },
+                {
+                    "auth": 6,
+                    "lan": "si",
+                    "url": "jujutsu-kaisen-hidden-inventory-premature-death"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "jujutsu-kaisen-hidden-inventory-premature-death"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1045"
+            ],
+            "sub": [
+                {
+                    "auth": 3,
+                    "lan": "si",
+                    "url": "anthem-of-the-heart"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "anthem-of-the-heart"
+                }
+            ]
+        },
+        {
+            "id": [
+                "759",
+                "758"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "high-school-of-the-dead"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "high-school-of-the-dead"
+                }
+            ]
+        },
+        {
+            "id": [
+                "761",
+                "760"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "highschool-of-the-dead-drifters-of-the-dead"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "highschool-of-the-dead-drifters-of-the-dead"
+                }
+            ]
+        },
+        {
+            "id": [
+                "25",
+                "96"
+            ],
+            "sub": [
+                {
+                    "auth": 12,
+                    "lan": "si",
+                    "url": "attack-on-titan-s1"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "attack-on-titan-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1046"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "the-boy-and-the-beast"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "the-boy-and-the-beast"
+                }
+            ]
+        },
+        {
+            "id": [
+                "176"
+            ],
+            "sub": [
+                {
+                    "auth": 12,
+                    "lan": "si",
+                    "url": "akira"
+                }
+            ]
+        },
+        {
+            "id": [
+                "30",
+                "980"
+            ],
+            "sub": [
+                {
+                    "auth": 13,
+                    "lan": "si",
+                    "url": "i-want-to-eat-your-pancreas"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "i-want-to-eat-your-pancreas"
+                }
+            ]
+        },
+        {
+            "id": [
+                "175"
+            ],
+            "sub": [
+                {
+                    "auth": 12,
+                    "lan": "si",
+                    "url": "paprika"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "paprika"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1047"
+            ],
+            "sub": [
+                {
+                    "auth": 14,
+                    "lan": "si",
+                    "url": "threads-of-fate-a-war-untold"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "threads-of-fate-a-war-untold"
+                }
+            ]
+        },
+        {
+            "id": [
+                "897",
+                "1024"
+            ],
+            "sub": [
+                {
+                    "auth": 8,
+                    "lan": "si",
+                    "url": "demon-slayer-infinity-castle-2"
+                },
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "demon-slayer-infinity-castle"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "demon-slayer-infinity-castle"
+                }
+            ]
+        },
+        {
+            "id": [
+                "204"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "cyberpunk-edgerunners"
+                }
+            ]
+        },
+        {
+            "id": [
+                "103"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "solo-leveling-s1"
+                },
+                {
+                    "auth": 1,
+                    "lan": "si",
+                    "url": "solo-leveling-s1-2"
+                },
+                {
+                    "auth": 15,
+                    "lan": "si",
+                    "url": "solo-leveling-s1-3"
+                }
+            ]
+        },
+        {
+            "id": [
+                "26"
+            ],
+            "sub": [
+                {
+                    "auth": 12,
+                    "lan": "si",
+                    "url": "attack-on-titan-s2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "165",
+                "166"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "heavenly-delusion"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1058"
+            ],
+            "sub": [
+                {
+                    "auth": 5,
+                    "lan": "si",
+                    "url": "tiger-crane"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1059"
+            ],
+            "sub": [
+                {
+                    "auth": 5,
+                    "lan": "si",
+                    "url": "throne-of-seal-movie-the-legend-of-electrolux"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "throne-of-seal-movie-the-legend-of-electrolux"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1060",
+                "1061"
+            ],
+            "sub": [
+                {
+                    "auth": 8,
+                    "lan": "si",
+                    "url": "jujutsu-kaisen-s3-p1"
+                },
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "jujutsu-kaisen-s3-p1-lw"
+                },
+                {
+                    "auth": 28,
+                    "lan": "si",
+                    "url": "jujutsu-kaisen-s3-p1-ak"
+                }
+            ]
+        },
+        {
+            "id": [
+                "231"
+            ],
+            "sub": [
+                {
+                    "auth": 17,
+                    "lan": "si",
+                    "url": "chainsaw-man-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1062",
+                "1063"
+            ],
+            "sub": [
+                {
+                    "auth": 8,
+                    "lan": "si",
+                    "url": "chained-soldier-s2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1064",
+                "1065"
+            ],
+            "sub": [
+                {
+                    "auth": 8,
+                    "lan": "si",
+                    "url": "hells-paradise-s2"
+                },
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "hells-paradise-s2-lw"
+                }
+            ]
+        },
+        {
+            "id": [
+                "311"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "your-lie-in-april"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "your-lie-in-april"
+                }
+            ]
+        },
+        {
+            "id": [
+                "312"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "your-lie-in-april-moments"
+                }
+            ]
+        },
+        {
+            "id": [
+                "767"
+            ],
+            "sub": [
+                {
+                    "auth": 18,
+                    "lan": "si",
+                    "url": "mashle-magic-and-muscles-s2"
+                },
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "mashle-magic-and-muscles-s2-2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "10"
+            ],
+            "sub": [
+                {
+                    "auth": 19,
+                    "lan": "si",
+                    "url": "kaiju-no-8-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1067",
+                "1068"
+            ],
+            "sub": [
+                {
+                    "auth": 8,
+                    "lan": "si",
+                    "url": "frieren-beyond-journeys-end-s2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1077"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "jin-roh-the-wolf-brigade"
+                }
+            ]
+        },
+        {
+            "id": [
+                "998"
+            ],
+            "sub": [
+                {
+                    "auth": 17,
+                    "lan": "si",
+                    "url": "suzume"
+                }
+            ]
+        },
+        {
+            "id": [
+                "12"
+            ],
+            "sub": [
+                {
+                    "auth": 13,
+                    "lan": "si",
+                    "url": "darling-in-the-franxx"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "darling-in-the-franxx"
+                }
+            ]
+        },
+        {
+            "id": [
+                "181"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "jujutsu-kaisen-0"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "jujutsu-kaisen-0"
+                }
+            ]
+        },
+        {
+            "id": [
+                "933"
+            ],
+            "sub": [
+                {
+                    "auth": 17,
+                    "lan": "si",
+                    "url": "summer-ghost"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "summer-ghost"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1078"
+            ],
+            "sub": [
+                {
+                    "auth": 17,
+                    "lan": "si",
+                    "url": "colorful-the-motion-picture"
+                }
+            ]
+        },
+        {
+            "id": [
+                "232",
+                "419"
+            ],
+            "sub": [
+                {
+                    "auth": 8,
+                    "lan": "si",
+                    "url": "the-future-diary"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "the-future-diary"
+                }
+            ]
+        },
+        {
+            "id": [
+                "843"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "the-future-diary-redial"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1066",
+                "1080"
+            ],
+            "sub": [
+                {
+                    "auth": 8,
+                    "lan": "si",
+                    "url": "oshi-no-ko-s3"
+                }
+            ]
+        },
+        {
+            "id": [
+                "418"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "si",
+                    "url": "naruto-2"
+                },
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "naruto"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "naruto"
+                }
+            ]
+        },
+        {
+            "id": [
+                "949"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "tatsuki-fujimoto-17-26"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "tatsuki-fujimoto-17-26"
+                }
+            ]
+        },
+        {
+            "id": [
+                "13"
+            ],
+            "sub": [
+                {
+                    "auth": 1,
+                    "lan": "si",
+                    "url": "bleach"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "bleach"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1082"
+            ],
+            "sub": [
+                {
+                    "auth": 20,
+                    "lan": "si",
+                    "url": "vampire-hunter-d-bloodlust"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "vampire-hunter-d-bloodlust"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1083"
+            ],
+            "sub": [
+                {
+                    "auth": 21,
+                    "lan": "si",
+                    "url": "love-through-a-prism"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "love-through-a-prism"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1084"
+            ],
+            "sub": [
+                {
+                    "auth": 22,
+                    "lan": "si",
+                    "url": "kpop-demon-hunters"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "kpop-demon-hunters"
+                }
+            ]
+        },
+        {
+            "id": [
+                "180"
+            ],
+            "sub": [
+                {
+                    "auth": 2,
+                    "lan": "si",
+                    "url": "over-the-sky"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "over-the-sky"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1081"
+            ],
+            "sub": [
+                {
+                    "auth": 6,
+                    "lan": "si",
+                    "url": "dark-moon-the-blood-altar"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "dark-moon-the-blood-altar"
+                }
+            ]
+        },
+        {
+            "id": [
+                "14",
+                "15"
+            ],
+            "sub": [
+                {
+                    "auth": 23,
+                    "lan": "si",
+                    "url": "your-name"
+                },
+                {
+                    "auth": 24,
+                    "lan": "si",
+                    "url": "your-name-2"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "your-name"
+                }
+            ]
+        },
+        {
+            "id": [
+                "340"
+            ],
+            "sub": [
+                {
+                    "auth": 25,
+                    "lan": "si",
+                    "url": "fatestay-night-heavens-feel-i"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "fatestay-night-heavens-feel-i"
+                }
+            ]
+        },
+        {
+            "id": [
+                "344"
+            ],
+            "sub": [
+                {
+                    "auth": 25,
+                    "lan": "si",
+                    "url": "fatestay-night-heavens-feel-ii"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "fatestay-night-heavens-feel-ii"
+                }
+            ]
+        },
+        {
+            "id": [
+                "350"
+            ],
+            "sub": [
+                {
+                    "auth": 25,
+                    "lan": "si",
+                    "url": "fatestay-night-heavens-feel-iii"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "fatestay-night-heavens-feel-iii"
+                }
+            ]
+        },
+        {
+            "id": [
+                "517"
+            ],
+            "sub": [
+                {
+                    "auth": 25,
+                    "lan": "si",
+                    "url": "black-clover-sword-of-the-wizard-king"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "black-clover-sword-of-the-wizard-king"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1005",
+                "1006"
+            ],
+            "sub": [
+                {
+                    "auth": 17,
+                    "lan": "si",
+                    "url": "words-bubble-up-like-soda-pop"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "words-bubble-up-like-soda-pop"
+                }
+            ]
+        },
+        {
+            "id": [
+                "1079"
+            ],
+            "sub": [
+                {
+                    "auth": 26,
+                    "lan": "si",
+                    "url": "relife-movie"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "relife-movie"
+                }
+            ]
+        },
+        {
+            "id": [
+                "64",
+                "65"
+            ],
+            "sub": [
+                {
+                    "auth": 27,
+                    "lan": "si",
+                    "url": "stand-by-me-doraemon"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "stand-by-me-doraemon"
+                }
+            ]
+        },
+        {
+            "id": [
+                "121",
+                "122"
+            ],
+            "sub": [
+                {
+                    "auth": 27,
+                    "lan": "si",
+                    "url": "stand-by-me-doraemon-2"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "stand-by-me-doraemon-2"
+                }
+            ]
+        },
+        {
+            "id": [
+                "239"
+            ],
+            "sub": [
+                {
+                    "auth": 17,
+                    "lan": "si",
+                    "url": "hells-paradise-s1"
+                },
+                {
+                    "auth": 28,
+                    "lan": "si",
+                    "url": "hells-paradise-s1-ak"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "hells-paradise-s1"
+                }
+            ]
+        },
+        {
+            "id": [
+                "58"
+            ],
+            "sub": [
+                {
+                    "auth": 4,
+                    "lan": "si",
+                    "url": "86-eighty-six"
+                },
+                {
+                    "auth": 1,
+                    "lan": "en",
+                    "url": "86-eighty-six"
+                }
+            ]
+        }
+    ]
+}
