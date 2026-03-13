@@ -1,0 +1,14 @@
+app_id: da_K53IxtPUxgbp
+kind: wasmer.io/App.v0
+name: emVyby10d28tbmV0
+owner: kazumasatoulk
+package: sha256:0c63a74204e7f909b268a63887764882b9f6bc57b7ed7b0ef9a10e711d1e88a4
+
+# Persistent volumes
+volumes:
+  - name: subtitle_downloads
+    mount: /app/subtitles/d
+  - name: cache_data
+    mount: /app/cache
+  - name: web_activity
+    mount: /app/database/action
